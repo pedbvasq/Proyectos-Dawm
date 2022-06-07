@@ -35,13 +35,13 @@ header {
 nav a {
 
     font-weight: 600;
-    padding-right: 10px;
+    padding: 10px 15px;
 }
 
 nav a:hover{
 
-    color: #fff;
-
+    color: rgb(247, 238, 238);
+    cursor: pointer;
 
 }
 
@@ -56,21 +56,51 @@ nav a:hover{
 
 
 }
-       
-nav li{
-    float:left;
-    width:10%;
-    padding:5px 10px;
-    background-color:rgb(107, 23, 23);
-    border:1px solid rgb(105, 42, 42);
-    text-align:center;
-    color:#fff;
+
+.menuNavegacion {
+    width: 100%;
+    background-color: #133d68;
+}
+
+.menuNavegacion uL {
+
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+
+}
+
+.menuNavegacion li {
+    border-right: 1px solid white;
+    flex-grow: 1;
+    
+
+}
+
+@media (max-width:480px){
+    .menuNavegacion{
+        position: absolute;
+        width: 100%;
+
     }
 
+    .menuNavegacion ul{
+        flex-direction: column;
+        width: 70%;
+
+    }
+    .menuNavegacion li{
+        border-top: 1px solid white;
+        
+    }
+}
 
  .gallery {
     width: 60%;
     display: grid;
+    box-sizing: border-box;
     grid-template-columns: 1fr 1fr 1fr ; 
     grid-template-rows: 1fr 1fr  1fr;
      padding:125px ;
@@ -96,10 +126,7 @@ nav li{
      }
  }
 
- }
- .gallery-img {
-  
- }
+ 
 .item1 {
   grid-area: a;
 
@@ -198,5 +225,60 @@ nav li{
         grid-template-columns: repeat(1, 1fr);
         grid-gap:30px;
         padding: 35px 0px;
+    }
+}
+form {
+    width: 450px;
+    margin: auto;
+    background-color:rgb(230, 209, 209);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+
+
+}
+
+h2{
+    color: rgb(192, 130, 130);
+    text-align: center;
+    margin:0;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+input, textarea {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+
+
+}
+
+textarea {
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+
+}
+
+
+#boton{
+    background: rgb(107, 51, 51);
+    color:rgb(235, 223, 223);
+    padding:20px;
+
+}
+
+#boton{
+    cursor: pointer;
+}
+
+@media (max-width:480px){
+    form{
+        width: 100%;
     }
 }
