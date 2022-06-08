@@ -143,20 +143,32 @@ h2 span {
     
 }
 
-@media (min-width:600px){
+.item:hover img{
+     transition: 1s;
+     transform: scale(1.2);
+}
+.video-box{ 
+    width: 100%;
+    border-radius: 7px;
+    border: 1px solid greenyellow;
+    
+    max-width: 720px;
+    height: 300px;
+    margin:auto;
+}
+.video{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+@media (min-width:400px){
     .gallery{
     
     width: 70%;
     margin: auto;
-   
-
     }
-    
-    
-    
+      
 }
-
-
 
 
 @media screen and (max-width:400px) {
