@@ -268,8 +268,94 @@ h2 span {
         padding: 35px 0px;
     }
 }
+.carrito{
+    width: 100%;
+    max-width: 500px;
+    margin:auto ;
+
+}
+.table{
+    width: 100%;
+    border: 1px solid gold;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    table-layout: fixed;
+
+
+}
+
+.table tr{
+    background-color: #133d68;
+    border: 1px solid red;
+
+}
+.table th, table td{
+    font-size: 16px;
+    padding: 8px;
+    text-align: center;
+
+}
+.table thead th {
+    text-transform: uppercase;
+    background-color: yellow ;
+
+}
+
+.table tbody tr:hover{
+    background-color: rgba(0,0, 0,0.2);
+
+
+}
+.table tbody td:hover{
+    background-color: rgba(0,0, 0,0.3);
+    
+
+}
+.table caption {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 8px 0;
+
+
+}
+
+@media screen and(max-width:600px){
+    .table{
+        border:0px;
+    }
+    .table caption{
+        font-size: 10px;
+
+
+    }
+    .table thead{
+        display: none;
+    }
+    .table tr{
+        margin-bottom: 8px;
+        border-bottom: 4px solid #ddd;
+        display:block;
+    }
+    .table th,table td{
+        font-size: 12px;
+    }
+    .table td{
+        display:block;
+        border-bottom: 4px solid #ddd;
+        text-align: right;
+
+    }
+    .table td:last-child{
+        border-bottom: 0px;
+    }
+    .table td::before{
+        content:attr(data-label);
+    }
+}
 form {
-    width: 450px;
+    width: 300px;
     margin: auto;
     background-color:rgb(230, 209, 209);
     padding: 10px 20px;
@@ -278,6 +364,10 @@ form {
     border-radius: 7px;
 
 
+}
+.formulario{
+    
+    padding: 30px 30px;
 }
 
 .contact {
