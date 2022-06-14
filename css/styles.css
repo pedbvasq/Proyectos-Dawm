@@ -1,5 +1,9 @@
 
-
+h1{
+    font-family: 'Domine', serif;
+    font-family: 'Rock Salt', cursive;
+    color:#DC4C9C;
+}
 a{
     text-decoration: none;
     color: black;
@@ -9,11 +13,10 @@ a{
 
 header {
     display: flex;
-    min-height: 70px;
-    background-color: green;
+    min-height: 80px;
+    background-color: #54BC4C;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
 }
 
 .logo {
@@ -24,16 +27,32 @@ header {
 .logo img {
     
     display: flex;
-    height: 40px;
+    height: 70px;
     margin-right: 10px;
-}
 
+   
+}
+.handi{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height:30%;
+  width: 23%;
+  margin-bottom:10px;
+}
 nav a {
 
     font-weight: 600;
     padding: 10px 15px;
+   font-family: 'Domine', serif;
+   font-family: 'Gloria Hallelujah', cursive;
+   font-family: 'Rock Salt', cursive;
+   
+    
 }
-
+header nav a {
+padding-left:50px;
+}
 nav a:hover{
 
     color: rgb(247, 238, 238);
@@ -44,6 +63,7 @@ nav a:hover{
 @media (max-width:700px){
     header{
         flex-direction: column;
+        margin:0px;
     }
 
     nav{
@@ -55,7 +75,7 @@ nav a:hover{
 
 .menuNavegacion {
     width: 100%;
-    background-color: #133d68;
+    background-color:#DC4C9C ;
 }
 
 .menuNavegacion uL {
@@ -75,7 +95,7 @@ nav a:hover{
 
 }
 
-@media (max-width:480px){
+@media (max-width:400px){
     .menuNavegacion{
         position: absolute;
         width: 100%;
@@ -87,12 +107,16 @@ nav a:hover{
 
     .menuNavegacion ul{
         flex-direction: column;
-        width: 70%;
+        width: 100%;
 
     }
     .menuNavegacion li{
         border-top: 1px solid white;
         
+    }
+    .t{
+        padding-top:125px;
+
     }
 }
 
@@ -102,6 +126,11 @@ h2{
     width: 100%;
     margin: 50px auto;
     top: 20px;
+    color:purple;
+    font-size:50px;
+      -webkit-box-shadow: 4px 4px 10px #999;
+  -moz-box-shadow: 4px 4px 10px #999;
+  
 }
 
 
@@ -140,6 +169,8 @@ h2 span {
     box-sizing: border-box;
     border-radius: 7px;
     transition:2s ;
+      -webkit-box-shadow: 4px 4px 10px #999;
+  -moz-box-shadow: 4px 4px 10px #999;
     
 }
 
@@ -149,9 +180,6 @@ h2 span {
 }
 .video-box{ 
     width: 100%;
-    border-radius: 7px;
-
-    
     max-width: 720px;
     height: 300px;
     margin:auto;
@@ -160,6 +188,7 @@ h2 span {
     width: 100%;
     height: auto;
     box-sizing: border-box;
+    
 }
 @media (min-width:400px){
     .gallery{
@@ -169,7 +198,6 @@ h2 span {
     }
       
 }
-
 
 @media screen and (max-width:400px) {
     h2{
@@ -225,7 +253,7 @@ h2 span {
     align-items: center;
 }
 .pie-pagina .grupo-1 .box figure img{
-    width: 250px;
+    width: 100px;
 }
 .pie-pagina .grupo-1 .box h2{
     color: #fff;
@@ -262,7 +290,7 @@ h2 span {
 }
 @media screen and (max-width:800px){
     .pie-pagina .grupo-1{
-        width: 90%;
+        width: 100%;
         grid-template-columns: repeat(1, 1fr);
         grid-gap:30px;
         padding: 35px 0px;
@@ -289,7 +317,7 @@ h2 span {
 }
 .table{
     width: 100%;
-    border: 1px solid gold;
+    border: 1px solid green;
     border-collapse: collapse;
     margin: 0;
     padding: 0;
@@ -299,8 +327,8 @@ h2 span {
 }
 
 .table tr{
-    background-color: #133d68;
-    border: 1px solid red;
+    background-color: #white;
+    border: 1px solid purple;
 
 }
 .table th, table td{
@@ -311,7 +339,7 @@ h2 span {
 }
 .table thead th {
     text-transform: uppercase;
-    background-color: yellow ;
+    background-color: #DC4C9C ;
 
 }
 
@@ -330,7 +358,8 @@ h2 span {
     text-transform: uppercase;
     font-weight: bold;
     margin: 8px 0;
-
+    text-decoration: underline;
+    color:purple;
 
 }
 
@@ -370,7 +399,7 @@ h2 span {
 form {
     width: 300px;
     margin: auto;
-    background-color:rgb(230, 209, 209);
+    background-color:#DC4C9C;
     padding: 10px 20px;
     box-sizing: border-box;
     margin-top: 20px;
@@ -384,7 +413,7 @@ form {
 }
 
 .contact {
-    color: rgb(192, 130, 130);
+    color: blue;
     text-align: center;
     margin:0;
     font-size: 30px;
