@@ -1,6 +1,23 @@
+cargarDatos = () => {
+    fetch("https://api-football-standings.azharimm.site/leagues/eng.1/standings?season=2020&sort=asc")
+        .then(response => response.json())
+        .then(data => {
+            console.log(data)
+          
+        })
+        .catch(console.error);
+};
+window.addEventListener('DOMContentLoaded', (event) => {
+    cargarDatos();
+});
+
+
+
 (function ($) {
     "use strict";
-    
+
+
+
     // Dropdown on mouse hover
     $(document).ready(function () {
         function toggleNavbarMethod() {
