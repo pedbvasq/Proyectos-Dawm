@@ -27,3 +27,18 @@
     --labels-size: 4rem;
   }
 
+  @media (min-width: 600px) {
+    #my-chart .column {
+      
+      grid-template-areas:
+      "data-axis chart"
+      ".         hide-data";
+    }
+  }
+  
+  @media (min-width: 1000px) {
+    #my-chart .bar {
+      height: 500px;
+      max-width: 1000px;
+    }
+  }
