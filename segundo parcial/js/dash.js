@@ -36,10 +36,11 @@ cargarDatos = () => {
               
                 let plantilla =` `
                 for (let i = 0; i < 20; i++) {
-                    let id = data["data"]["standings"][i]["team"]["name"]
+                    let id = data["data"]["standings"][i]["team"]["abbreviation"]
                     let valores= data["data"]["standings"][i]["stats"][condicion]["displayValue"]
                     
                     plantilla +=`<tr>
+                    <th scope="row"> ${id} </th>
                     <td class="${i}" style="--size: calc( ${valores}/ 38)" > ${valores}</td></tr>`
                  
 

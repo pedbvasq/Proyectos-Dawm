@@ -1,0 +1,29 @@
+#my-chart {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    grid-template-columns: 50px 1fr;
+    grid-template-rows: 250px 50px;
+    grid-template-areas:
+      "data-axis chart"
+      ".         primary-axis";
+  }
+  #my-chart > table {
+    grid-area: chart;
+  }
+  #my-chart > .primary-axis {
+    grid-area: primary-axis;
+  }
+  #my-chart > .data-axis {
+    grid-area: data-axis;
+    writing-mode: tb-rl;
+    transform: rotateZ(180deg);
+  }
+  #my-chart {
+    padding-top: 40px;
+    margin-top: 20px;
+  }
+  #my-chart.column {
+    --labels-size: 4rem;
+  }
+

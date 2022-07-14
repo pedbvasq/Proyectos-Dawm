@@ -6,11 +6,12 @@ cargarDatos = () => {
 
             for (let i = 0; i < 20; i++) {
                 let id = data["data"]["standings"][i]["team"]["name"]
+                let ab=data["data"]["standings"][i]["team"]["abbreviation"]
                 let nombre = data["data"]["standings"][i]["team"]["name"]
 
                 const option = document.createElement("option");
                 option.setAttribute('value', id);
-                option.innerHTML = nombre;
+                option.innerHTML = nombre+"("+ab+")";
                 document.querySelector('div.input-group > select').appendChild(option)
             }
 
