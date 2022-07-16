@@ -6,6 +6,7 @@ function traer() {
         .then(data => {
 
             let contenido = document.querySelector('#contenido')
+            
 
             let numero = getRandomInt(21)
             let id= data["data"]["standings"][numero]["team"]["name"]
@@ -13,14 +14,17 @@ function traer() {
             let logo=data["data"]["standings"][numero]["team"]["logos"][0]["href"]
 
             contenido.innerHTML = `
-            <img src="${logo}" width="200px" class="img-fluid rounded-circle"> 
+            <img id="img" src="${logo}" width="200px" class="img-fluid rounded-circle"> 
             <p>Equipo: ${id+"("+ab+")"}</p>
+
+
             `
-            
+          
 
 
         })
 } 
+
 
 function getRandomInt(max) {
     return Math.floor(Math.random() * max);
