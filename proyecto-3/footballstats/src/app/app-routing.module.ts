@@ -1,32 +1,61 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { HomeComponent } from './home/home.component';
-import { LoginComponent } from './login/login.component';
-import { PlayersComponent } from './players/players.component';
-import { ShieldsComponent } from './shields/shields.component';
-import { StastComponent } from './stast/stast.component';
-import { StadisticsComponent } from './stadistics/stadistics.component';
-import { Component } from '@angular/core';
-
-
+import { AboutComponent } from './pages/about/about.component';
+import { HelpComponent } from './pages/help/help.component';
+import { HomeComponent } from './pages/home/home.component';
+import { NotFoundComponent } from './pages/not-found/not-found.component';
+import { ProfileComponent } from './pages/profile/profile.component';
+import { StadisticsComponent} from './pages/stadistics/stadistics.component';
+import { PlayersComponent} from './pages/players/players.component';
+import { TeamsComponent} from './pages/teams/teams.component';
+import {BudgetsComponent} from './pages/budgets/budgets.component';
 
 const routes: Routes = [
-  { path: "home", component: HomeComponent },
-  { path: "login", component: LoginComponent },
-  { path: "players", component: PlayersComponent },
-  { path: "shields", component: ShieldsComponent },
-  { path: "stats", component: StastComponent },
-  { path: "stadistics", component: StadisticsComponent },
-
-  { path: "**", redirectTo: "home" }
-
-
-
+  {
+    path: '',
+    pathMatch: 'full',
+    redirectTo: 'home',
+  },
+  {
+    path: 'home',
+    component: HomeComponent,
+  },
+  {
+    path: 'profile',
+    component: ProfileComponent,
+  },
+  {
+    path: 'stadistics',
+    component: StadisticsComponent,
+  },
+  {
+    path: 'players',
+    component: PlayersComponent,
+  },
+  {
+    path: 'teams',
+    component: TeamsComponent,
+  },
+  {
+    path: 'budgets',
+    component: BudgetsComponent,
+  },
+  {
+    path: 'about',
+    component: AboutComponent,
+  },
+  {
+    path: 'help',
+    component: HelpComponent,
+  },
+  {
+    path: '**',
+    component: NotFoundComponent,
+  },
 ];
-
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}
