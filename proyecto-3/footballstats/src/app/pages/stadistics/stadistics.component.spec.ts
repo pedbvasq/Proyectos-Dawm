@@ -1,5 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
+import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { StadisticsComponent } from './stadistics.component';
 
 describe('StadisticsComponent', () => {
@@ -8,7 +8,10 @@ describe('StadisticsComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ StadisticsComponent ]
+      declarations: [ StadisticsComponent ],
+      schemas: [
+        CUSTOM_ELEMENTS_SCHEMA
+      ]
     })
     .compileComponents();
   });
@@ -23,3 +26,5 @@ describe('StadisticsComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
+

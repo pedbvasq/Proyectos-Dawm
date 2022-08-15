@@ -9,6 +9,7 @@ import { StadisticsComponent} from './pages/stadistics/stadistics.component';
 import { PlayersComponent} from './pages/players/players.component';
 import { TeamsComponent} from './pages/teams/teams.component';
 import {BudgetsComponent} from './pages/budgets/budgets.component';
+import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 
 const routes: Routes = [
   {
@@ -57,5 +58,8 @@ const routes: Routes = [
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule],
+  schemas: [
+    CUSTOM_ELEMENTS_SCHEMA
+  ],
 })
 export class AppRoutingModule {}
