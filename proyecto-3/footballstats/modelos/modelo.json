@@ -1,0 +1,44 @@
+
+
+{
+    "config": {
+      "locale": "en"
+    },
+    "model": {
+      "type": "Object",
+      "value": {
+
+        "id": {
+          "type": "incrementNumber",
+          "options": {
+            "from": 0
+          }
+        },
+        "country": {
+          "type": "randomElementInArray",
+          "value": ["España",  "Argentina" , "Ecuador" , "Brazil"]
+        },
+        "city": {
+          "type": "randomElementInArray",
+          "value": ["Sevilla",  "Buenos Aires" , "Guayaquil" , "Rio de janeiro"]
+        },
+        "valueMarket": {
+          "type": "randomNumberBetween",
+          "value": [100, 200000]
+        },
+        "fechaDeCreacion" : {
+            "type":"faker",
+            "value": "date.between",
+            "options": ["1980-01-01", "2004-01-01"]
+        },
+        "state": {
+            "type": "randomElementInArray",
+            "value": ["retired ",  "active" ]
+        }
+
+    
+    
+       
+      }
+    }
+  }

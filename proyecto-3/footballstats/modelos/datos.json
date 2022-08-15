@@ -1,0 +1,8002 @@
+[
+	{
+		"id": 0,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 120483,
+		"fechaDeCreacion": "1991-02-25T16:54:41.617Z",
+		"state": "retired "
+	},
+	{
+		"id": 1,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 178019,
+		"fechaDeCreacion": "1992-01-10T23:44:20.833Z",
+		"state": "retired "
+	},
+	{
+		"id": 2,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 180384,
+		"fechaDeCreacion": "1992-09-13T08:54:36.994Z",
+		"state": "retired "
+	},
+	{
+		"id": 3,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 100606,
+		"fechaDeCreacion": "1984-07-17T13:25:51.290Z",
+		"state": "retired "
+	},
+	{
+		"id": 4,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 187477,
+		"fechaDeCreacion": "1989-08-29T23:55:32.046Z",
+		"state": "retired "
+	},
+	{
+		"id": 5,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 129167,
+		"fechaDeCreacion": "1997-08-31T00:03:25.733Z",
+		"state": "retired "
+	},
+	{
+		"id": 6,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 135275,
+		"fechaDeCreacion": "1986-05-16T05:08:47.011Z",
+		"state": "retired "
+	},
+	{
+		"id": 7,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 147569,
+		"fechaDeCreacion": "1982-08-17T14:09:16.935Z",
+		"state": "retired "
+	},
+	{
+		"id": 8,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 3287,
+		"fechaDeCreacion": "1993-03-23T16:29:56.002Z",
+		"state": "retired "
+	},
+	{
+		"id": 9,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 6259,
+		"fechaDeCreacion": "1987-04-01T08:02:37.002Z",
+		"state": "retired "
+	},
+	{
+		"id": 10,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 199322,
+		"fechaDeCreacion": "1999-03-08T22:24:10.128Z",
+		"state": "retired "
+	},
+	{
+		"id": 11,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 97576,
+		"fechaDeCreacion": "1996-08-05T21:45:53.000Z",
+		"state": "retired "
+	},
+	{
+		"id": 12,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 124017,
+		"fechaDeCreacion": "1995-05-20T09:55:01.725Z",
+		"state": "retired "
+	},
+	{
+		"id": 13,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 187391,
+		"fechaDeCreacion": "1989-11-29T23:59:13.454Z",
+		"state": "retired "
+	},
+	{
+		"id": 14,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 172270,
+		"fechaDeCreacion": "2001-09-06T09:50:26.387Z",
+		"state": "retired "
+	},
+	{
+		"id": 15,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 42469,
+		"fechaDeCreacion": "2003-09-21T16:31:36.018Z",
+		"state": "retired "
+	},
+	{
+		"id": 16,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 59732,
+		"fechaDeCreacion": "1986-02-04T22:55:54.576Z",
+		"state": "retired "
+	},
+	{
+		"id": 17,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 6107,
+		"fechaDeCreacion": "1989-07-09T03:12:55.360Z",
+		"state": "retired "
+	},
+	{
+		"id": 18,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 119689,
+		"fechaDeCreacion": "1993-03-15T10:10:30.248Z",
+		"state": "retired "
+	},
+	{
+		"id": 19,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 147436,
+		"fechaDeCreacion": "1999-08-28T19:42:49.745Z",
+		"state": "retired "
+	},
+	{
+		"id": 20,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 89104,
+		"fechaDeCreacion": "1991-01-11T03:23:36.515Z",
+		"state": "retired "
+	},
+	{
+		"id": 21,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 83922,
+		"fechaDeCreacion": "1995-12-31T15:59:43.511Z",
+		"state": "retired "
+	},
+	{
+		"id": 22,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 186172,
+		"fechaDeCreacion": "1991-08-17T03:08:48.935Z",
+		"state": "retired "
+	},
+	{
+		"id": 23,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 104659,
+		"fechaDeCreacion": "1995-02-04T11:29:20.837Z",
+		"state": "retired "
+	},
+	{
+		"id": 24,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 42990,
+		"fechaDeCreacion": "1981-12-31T11:13:20.338Z",
+		"state": "retired "
+	},
+	{
+		"id": 25,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 139835,
+		"fechaDeCreacion": "1985-06-18T11:08:21.615Z",
+		"state": "retired "
+	},
+	{
+		"id": 26,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 30465,
+		"fechaDeCreacion": "1985-11-12T14:31:39.532Z",
+		"state": "retired "
+	},
+	{
+		"id": 27,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 194331,
+		"fechaDeCreacion": "1987-09-15T01:20:34.558Z",
+		"state": "retired "
+	},
+	{
+		"id": 28,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 8558,
+		"fechaDeCreacion": "1986-09-04T05:00:36.496Z",
+		"state": "retired "
+	},
+	{
+		"id": 29,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 71031,
+		"fechaDeCreacion": "1991-01-11T03:37:29.201Z",
+		"state": "retired "
+	},
+	{
+		"id": 30,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 4931,
+		"fechaDeCreacion": "1990-03-02T10:36:52.501Z",
+		"state": "retired "
+	},
+	{
+		"id": 31,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 38230,
+		"fechaDeCreacion": "1998-03-26T16:47:59.727Z",
+		"state": "retired "
+	},
+	{
+		"id": 32,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 95042,
+		"fechaDeCreacion": "1998-04-10T18:15:41.547Z",
+		"state": "retired "
+	},
+	{
+		"id": 33,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 25570,
+		"fechaDeCreacion": "1999-08-07T21:19:59.631Z",
+		"state": "retired "
+	},
+	{
+		"id": 34,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 124590,
+		"fechaDeCreacion": "2001-11-12T04:16:53.113Z",
+		"state": "retired "
+	},
+	{
+		"id": 35,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 122626,
+		"fechaDeCreacion": "1982-02-18T12:21:16.714Z",
+		"state": "retired "
+	},
+	{
+		"id": 36,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 95735,
+		"fechaDeCreacion": "2000-01-20T23:59:56.122Z",
+		"state": "retired "
+	},
+	{
+		"id": 37,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 98442,
+		"fechaDeCreacion": "1995-09-01T03:46:14.487Z",
+		"state": "retired "
+	},
+	{
+		"id": 38,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 110514,
+		"fechaDeCreacion": "1994-03-07T10:33:58.966Z",
+		"state": "retired "
+	},
+	{
+		"id": 39,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 107179,
+		"fechaDeCreacion": "1994-12-20T10:10:43.202Z",
+		"state": "retired "
+	},
+	{
+		"id": 40,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 155965,
+		"fechaDeCreacion": "1981-10-20T09:27:02.014Z",
+		"state": "retired "
+	},
+	{
+		"id": 41,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 184883,
+		"fechaDeCreacion": "1980-12-03T23:28:24.104Z",
+		"state": "retired "
+	},
+	{
+		"id": 42,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 186720,
+		"fechaDeCreacion": "1991-05-09T20:11:03.498Z",
+		"state": "retired "
+	},
+	{
+		"id": 43,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 37534,
+		"fechaDeCreacion": "1980-11-20T05:11:46.607Z",
+		"state": "retired "
+	},
+	{
+		"id": 44,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 172346,
+		"fechaDeCreacion": "1985-12-28T12:15:11.237Z",
+		"state": "retired "
+	},
+	{
+		"id": 45,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 117550,
+		"fechaDeCreacion": "2003-01-22T08:38:00.981Z",
+		"state": "retired "
+	},
+	{
+		"id": 46,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 120319,
+		"fechaDeCreacion": "1996-08-17T05:52:11.170Z",
+		"state": "retired "
+	},
+	{
+		"id": 47,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 2038,
+		"fechaDeCreacion": "1981-04-01T12:26:17.026Z",
+		"state": "retired "
+	},
+	{
+		"id": 48,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 29675,
+		"fechaDeCreacion": "1993-10-30T02:35:04.739Z",
+		"state": "retired "
+	},
+	{
+		"id": 49,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 178538,
+		"fechaDeCreacion": "1987-09-05T05:35:48.052Z",
+		"state": "retired "
+	},
+	{
+		"id": 50,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 155640,
+		"fechaDeCreacion": "1995-07-30T18:53:50.245Z",
+		"state": "retired "
+	},
+	{
+		"id": 51,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 125155,
+		"fechaDeCreacion": "1985-06-19T22:40:18.393Z",
+		"state": "retired "
+	},
+	{
+		"id": 52,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 121527,
+		"fechaDeCreacion": "1995-08-31T23:59:25.659Z",
+		"state": "retired "
+	},
+	{
+		"id": 53,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 179504,
+		"fechaDeCreacion": "1991-09-23T22:06:01.255Z",
+		"state": "retired "
+	},
+	{
+		"id": 54,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 63972,
+		"fechaDeCreacion": "1982-06-20T07:41:39.742Z",
+		"state": "retired "
+	},
+	{
+		"id": 55,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 118254,
+		"fechaDeCreacion": "2000-09-26T05:47:56.006Z",
+		"state": "retired "
+	},
+	{
+		"id": 56,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 58543,
+		"fechaDeCreacion": "1992-05-22T07:40:36.188Z",
+		"state": "retired "
+	},
+	{
+		"id": 57,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 64278,
+		"fechaDeCreacion": "2001-04-02T06:53:19.999Z",
+		"state": "retired "
+	},
+	{
+		"id": 58,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 165279,
+		"fechaDeCreacion": "2000-04-23T19:03:53.667Z",
+		"state": "retired "
+	},
+	{
+		"id": 59,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 179893,
+		"fechaDeCreacion": "1991-04-09T05:02:34.385Z",
+		"state": "retired "
+	},
+	{
+		"id": 60,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 27832,
+		"fechaDeCreacion": "1984-03-28T10:24:57.382Z",
+		"state": "retired "
+	},
+	{
+		"id": 61,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 26387,
+		"fechaDeCreacion": "1982-12-09T09:48:26.410Z",
+		"state": "retired "
+	},
+	{
+		"id": 62,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 86373,
+		"fechaDeCreacion": "1982-10-07T05:44:12.126Z",
+		"state": "retired "
+	},
+	{
+		"id": 63,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 11737,
+		"fechaDeCreacion": "1984-11-05T08:25:17.232Z",
+		"state": "retired "
+	},
+	{
+		"id": 64,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 60520,
+		"fechaDeCreacion": "2000-08-28T19:51:23.115Z",
+		"state": "retired "
+	},
+	{
+		"id": 65,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 42251,
+		"fechaDeCreacion": "1995-02-02T04:15:16.906Z",
+		"state": "retired "
+	},
+	{
+		"id": 66,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 111099,
+		"fechaDeCreacion": "1993-07-25T20:11:29.903Z",
+		"state": "retired "
+	},
+	{
+		"id": 67,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 5663,
+		"fechaDeCreacion": "1991-05-04T06:54:55.214Z",
+		"state": "retired "
+	},
+	{
+		"id": 68,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 90614,
+		"fechaDeCreacion": "1999-09-16T13:23:18.869Z",
+		"state": "retired "
+	},
+	{
+		"id": 69,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 149047,
+		"fechaDeCreacion": "1993-09-22T04:30:55.315Z",
+		"state": "retired "
+	},
+	{
+		"id": 70,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 83855,
+		"fechaDeCreacion": "1983-11-14T18:16:14.889Z",
+		"state": "retired "
+	},
+	{
+		"id": 71,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 66319,
+		"fechaDeCreacion": "1999-08-27T16:31:46.553Z",
+		"state": "retired "
+	},
+	{
+		"id": 72,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 2105,
+		"fechaDeCreacion": "1995-08-24T21:03:40.132Z",
+		"state": "retired "
+	},
+	{
+		"id": 73,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 50604,
+		"fechaDeCreacion": "1984-12-25T14:35:13.880Z",
+		"state": "retired "
+	},
+	{
+		"id": 74,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 98663,
+		"fechaDeCreacion": "1981-08-26T09:10:38.832Z",
+		"state": "retired "
+	},
+	{
+		"id": 75,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 84828,
+		"fechaDeCreacion": "1996-01-07T22:52:28.538Z",
+		"state": "retired "
+	},
+	{
+		"id": 76,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 169999,
+		"fechaDeCreacion": "1991-07-11T17:08:43.175Z",
+		"state": "retired "
+	},
+	{
+		"id": 77,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 98599,
+		"fechaDeCreacion": "1988-02-18T05:06:15.609Z",
+		"state": "retired "
+	},
+	{
+		"id": 78,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 135160,
+		"fechaDeCreacion": "1995-01-04T04:28:51.783Z",
+		"state": "retired "
+	},
+	{
+		"id": 79,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 84701,
+		"fechaDeCreacion": "1989-01-10T07:01:12.525Z",
+		"state": "retired "
+	},
+	{
+		"id": 80,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 68123,
+		"fechaDeCreacion": "1998-12-23T03:51:51.133Z",
+		"state": "retired "
+	},
+	{
+		"id": 81,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 29310,
+		"fechaDeCreacion": "1992-01-28T22:01:17.814Z",
+		"state": "retired "
+	},
+	{
+		"id": 82,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 39791,
+		"fechaDeCreacion": "1982-02-04T11:28:25.694Z",
+		"state": "retired "
+	},
+	{
+		"id": 83,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 76166,
+		"fechaDeCreacion": "1981-09-19T11:30:27.661Z",
+		"state": "retired "
+	},
+	{
+		"id": 84,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 48016,
+		"fechaDeCreacion": "1994-09-19T17:51:05.464Z",
+		"state": "retired "
+	},
+	{
+		"id": 85,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 183831,
+		"fechaDeCreacion": "1990-10-03T03:48:14.313Z",
+		"state": "retired "
+	},
+	{
+		"id": 86,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 65521,
+		"fechaDeCreacion": "1999-12-23T06:04:42.613Z",
+		"state": "retired "
+	},
+	{
+		"id": 87,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 174963,
+		"fechaDeCreacion": "1988-11-02T09:04:02.260Z",
+		"state": "retired "
+	},
+	{
+		"id": 88,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 29854,
+		"fechaDeCreacion": "1993-01-18T10:27:47.851Z",
+		"state": "retired "
+	},
+	{
+		"id": 89,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 91879,
+		"fechaDeCreacion": "1988-03-29T08:08:51.494Z",
+		"state": "retired "
+	},
+	{
+		"id": 90,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 44518,
+		"fechaDeCreacion": "1990-05-04T14:21:47.689Z",
+		"state": "retired "
+	},
+	{
+		"id": 91,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 151641,
+		"fechaDeCreacion": "1987-01-06T15:02:46.840Z",
+		"state": "retired "
+	},
+	{
+		"id": 92,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 75670,
+		"fechaDeCreacion": "1987-12-25T21:36:24.038Z",
+		"state": "retired "
+	},
+	{
+		"id": 93,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 28157,
+		"fechaDeCreacion": "1994-05-26T15:28:55.638Z",
+		"state": "retired "
+	},
+	{
+		"id": 94,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 142331,
+		"fechaDeCreacion": "2001-05-30T12:40:40.956Z",
+		"state": "retired "
+	},
+	{
+		"id": 95,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 42599,
+		"fechaDeCreacion": "1989-10-04T03:42:36.938Z",
+		"state": "retired "
+	},
+	{
+		"id": 96,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 74140,
+		"fechaDeCreacion": "1988-10-21T04:53:03.337Z",
+		"state": "retired "
+	},
+	{
+		"id": 97,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 171703,
+		"fechaDeCreacion": "1985-05-03T02:51:04.263Z",
+		"state": "retired "
+	},
+	{
+		"id": 98,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 16042,
+		"fechaDeCreacion": "1980-09-21T12:52:48.288Z",
+		"state": "retired "
+	},
+	{
+		"id": 99,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 57203,
+		"fechaDeCreacion": "2000-06-22T15:18:53.998Z",
+		"state": "retired "
+	},
+	{
+		"id": 100,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 194433,
+		"fechaDeCreacion": "1981-11-27T15:03:28.507Z",
+		"state": "retired "
+	},
+	{
+		"id": 101,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 147148,
+		"fechaDeCreacion": "1990-01-06T16:52:54.127Z",
+		"state": "retired "
+	},
+	{
+		"id": 102,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 129103,
+		"fechaDeCreacion": "1980-08-10T00:39:04.953Z",
+		"state": "retired "
+	},
+	{
+		"id": 103,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 137400,
+		"fechaDeCreacion": "1985-07-25T02:02:48.186Z",
+		"state": "retired "
+	},
+	{
+		"id": 104,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 119947,
+		"fechaDeCreacion": "1987-04-16T19:38:06.667Z",
+		"state": "retired "
+	},
+	{
+		"id": 105,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 134281,
+		"fechaDeCreacion": "1984-02-08T19:12:37.736Z",
+		"state": "retired "
+	},
+	{
+		"id": 106,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 177308,
+		"fechaDeCreacion": "1994-02-07T11:41:19.403Z",
+		"state": "retired "
+	},
+	{
+		"id": 107,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 94918,
+		"fechaDeCreacion": "1989-08-18T02:08:46.114Z",
+		"state": "retired "
+	},
+	{
+		"id": 108,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 113799,
+		"fechaDeCreacion": "1987-06-16T22:16:19.595Z",
+		"state": "retired "
+	},
+	{
+		"id": 109,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 127232,
+		"fechaDeCreacion": "1983-08-10T17:16:50.909Z",
+		"state": "retired "
+	},
+	{
+		"id": 110,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 39131,
+		"fechaDeCreacion": "2003-03-04T00:06:14.436Z",
+		"state": "retired "
+	},
+	{
+		"id": 111,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 69101,
+		"fechaDeCreacion": "2000-07-06T06:02:41.349Z",
+		"state": "retired "
+	},
+	{
+		"id": 112,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 100150,
+		"fechaDeCreacion": "1993-07-11T08:03:42.862Z",
+		"state": "retired "
+	},
+	{
+		"id": 113,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 116181,
+		"fechaDeCreacion": "1985-06-01T21:53:40.852Z",
+		"state": "retired "
+	},
+	{
+		"id": 114,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 126906,
+		"fechaDeCreacion": "1987-05-26T12:22:10.003Z",
+		"state": "retired "
+	},
+	{
+		"id": 115,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 119558,
+		"fechaDeCreacion": "2000-01-17T09:16:11.094Z",
+		"state": "retired "
+	},
+	{
+		"id": 116,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 723,
+		"fechaDeCreacion": "2001-05-22T19:40:18.313Z",
+		"state": "retired "
+	},
+	{
+		"id": 117,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 3817,
+		"fechaDeCreacion": "1992-04-13T11:01:13.606Z",
+		"state": "retired "
+	},
+	{
+		"id": 118,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 38921,
+		"fechaDeCreacion": "1991-12-05T21:08:05.159Z",
+		"state": "retired "
+	},
+	{
+		"id": 119,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 159946,
+		"fechaDeCreacion": "1992-11-21T03:05:35.109Z",
+		"state": "retired "
+	},
+	{
+		"id": 120,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 28963,
+		"fechaDeCreacion": "1985-08-26T02:57:33.001Z",
+		"state": "retired "
+	},
+	{
+		"id": 121,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 84614,
+		"fechaDeCreacion": "1984-01-23T16:03:37.850Z",
+		"state": "retired "
+	},
+	{
+		"id": 122,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 175178,
+		"fechaDeCreacion": "2001-07-30T13:58:25.468Z",
+		"state": "retired "
+	},
+	{
+		"id": 123,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 122462,
+		"fechaDeCreacion": "1993-08-08T23:58:28.472Z",
+		"state": "retired "
+	},
+	{
+		"id": 124,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 45154,
+		"fechaDeCreacion": "2001-05-27T08:22:13.887Z",
+		"state": "retired "
+	},
+	{
+		"id": 125,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 1588,
+		"fechaDeCreacion": "1997-06-07T01:13:13.155Z",
+		"state": "retired "
+	},
+	{
+		"id": 126,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 110500,
+		"fechaDeCreacion": "1995-01-28T03:22:26.000Z",
+		"state": "retired "
+	},
+	{
+		"id": 127,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 28090,
+		"fechaDeCreacion": "1985-10-03T15:38:28.897Z",
+		"state": "retired "
+	},
+	{
+		"id": 128,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 165886,
+		"fechaDeCreacion": "1985-07-25T21:13:41.531Z",
+		"state": "retired "
+	},
+	{
+		"id": 129,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 153953,
+		"fechaDeCreacion": "2000-03-16T11:16:42.256Z",
+		"state": "retired "
+	},
+	{
+		"id": 130,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 91347,
+		"fechaDeCreacion": "2001-07-21T04:37:22.226Z",
+		"state": "retired "
+	},
+	{
+		"id": 131,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 183899,
+		"fechaDeCreacion": "2000-02-27T08:20:25.748Z",
+		"state": "retired "
+	},
+	{
+		"id": 132,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 151958,
+		"fechaDeCreacion": "1994-02-03T10:18:13.502Z",
+		"state": "retired "
+	},
+	{
+		"id": 133,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 24660,
+		"fechaDeCreacion": "1984-01-14T06:36:53.739Z",
+		"state": "retired "
+	},
+	{
+		"id": 134,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 63724,
+		"fechaDeCreacion": "1993-05-26T15:29:10.503Z",
+		"state": "retired "
+	},
+	{
+		"id": 135,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 195161,
+		"fechaDeCreacion": "1986-09-27T01:02:40.371Z",
+		"state": "retired "
+	},
+	{
+		"id": 136,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 198853,
+		"fechaDeCreacion": "2002-06-07T21:41:21.652Z",
+		"state": "retired "
+	},
+	{
+		"id": 137,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 37267,
+		"fechaDeCreacion": "2000-06-07T17:42:59.376Z",
+		"state": "retired "
+	},
+	{
+		"id": 138,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 66409,
+		"fechaDeCreacion": "2001-01-10T15:45:34.377Z",
+		"state": "retired "
+	},
+	{
+		"id": 139,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 11386,
+		"fechaDeCreacion": "1999-10-16T19:27:47.110Z",
+		"state": "retired "
+	},
+	{
+		"id": 140,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 197320,
+		"fechaDeCreacion": "2000-05-21T07:53:48.872Z",
+		"state": "retired "
+	},
+	{
+		"id": 141,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 47060,
+		"fechaDeCreacion": "1997-06-10T23:35:19.045Z",
+		"state": "retired "
+	},
+	{
+		"id": 142,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 110900,
+		"fechaDeCreacion": "2002-10-13T03:41:58.911Z",
+		"state": "retired "
+	},
+	{
+		"id": 143,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 168421,
+		"fechaDeCreacion": "1980-12-12T06:03:51.274Z",
+		"state": "retired "
+	},
+	{
+		"id": 144,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 25251,
+		"fechaDeCreacion": "1981-07-21T18:37:06.320Z",
+		"state": "retired "
+	},
+	{
+		"id": 145,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 42298,
+		"fechaDeCreacion": "2003-02-22T12:15:01.185Z",
+		"state": "retired "
+	},
+	{
+		"id": 146,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 75154,
+		"fechaDeCreacion": "1982-04-26T23:59:32.296Z",
+		"state": "retired "
+	},
+	{
+		"id": 147,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 48489,
+		"fechaDeCreacion": "1991-04-20T05:29:59.246Z",
+		"state": "retired "
+	},
+	{
+		"id": 148,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 110668,
+		"fechaDeCreacion": "1997-11-11T16:38:12.368Z",
+		"state": "retired "
+	},
+	{
+		"id": 149,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 85843,
+		"fechaDeCreacion": "1997-11-20T17:59:50.201Z",
+		"state": "retired "
+	},
+	{
+		"id": 150,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 151309,
+		"fechaDeCreacion": "1984-05-17T13:36:50.185Z",
+		"state": "retired "
+	},
+	{
+		"id": 151,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 118699,
+		"fechaDeCreacion": "1997-02-13T08:36:51.261Z",
+		"state": "retired "
+	},
+	{
+		"id": 152,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 50687,
+		"fechaDeCreacion": "1994-08-12T11:02:47.237Z",
+		"state": "retired "
+	},
+	{
+		"id": 153,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 20927,
+		"fechaDeCreacion": "1991-09-09T16:23:03.532Z",
+		"state": "retired "
+	},
+	{
+		"id": 154,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 31745,
+		"fechaDeCreacion": "2001-10-24T18:09:14.032Z",
+		"state": "retired "
+	},
+	{
+		"id": 155,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 185487,
+		"fechaDeCreacion": "1991-05-17T09:29:58.960Z",
+		"state": "retired "
+	},
+	{
+		"id": 156,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 121505,
+		"fechaDeCreacion": "2001-12-29T08:27:18.724Z",
+		"state": "retired "
+	},
+	{
+		"id": 157,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 89024,
+		"fechaDeCreacion": "1991-11-10T04:48:32.909Z",
+		"state": "retired "
+	},
+	{
+		"id": 158,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 88166,
+		"fechaDeCreacion": "1996-02-12T14:09:19.271Z",
+		"state": "retired "
+	},
+	{
+		"id": 159,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 122543,
+		"fechaDeCreacion": "2003-11-20T17:06:51.594Z",
+		"state": "retired "
+	},
+	{
+		"id": 160,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 151976,
+		"fechaDeCreacion": "1980-03-19T04:21:27.779Z",
+		"state": "retired "
+	},
+	{
+		"id": 161,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 85780,
+		"fechaDeCreacion": "1999-02-15T14:24:02.952Z",
+		"state": "retired "
+	},
+	{
+		"id": 162,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 60743,
+		"fechaDeCreacion": "2000-11-08T01:37:36.307Z",
+		"state": "retired "
+	},
+	{
+		"id": 163,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 153609,
+		"fechaDeCreacion": "1982-04-09T00:55:11.980Z",
+		"state": "retired "
+	},
+	{
+		"id": 164,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 118969,
+		"fechaDeCreacion": "1986-09-17T11:47:01.525Z",
+		"state": "retired "
+	},
+	{
+		"id": 165,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 51073,
+		"fechaDeCreacion": "1995-03-22T07:22:13.977Z",
+		"state": "retired "
+	},
+	{
+		"id": 166,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 176006,
+		"fechaDeCreacion": "1984-09-30T10:15:23.947Z",
+		"state": "retired "
+	},
+	{
+		"id": 167,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 158411,
+		"fechaDeCreacion": "2000-08-18T13:41:29.584Z",
+		"state": "retired "
+	},
+	{
+		"id": 168,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 90732,
+		"fechaDeCreacion": "1984-02-25T17:37:24.752Z",
+		"state": "retired "
+	},
+	{
+		"id": 169,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 9276,
+		"fechaDeCreacion": "1992-12-18T15:48:03.816Z",
+		"state": "retired "
+	},
+	{
+		"id": 170,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 162788,
+		"fechaDeCreacion": "1980-07-01T11:19:05.031Z",
+		"state": "retired "
+	},
+	{
+		"id": 171,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 32526,
+		"fechaDeCreacion": "1995-04-03T15:24:09.312Z",
+		"state": "retired "
+	},
+	{
+		"id": 172,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 154107,
+		"fechaDeCreacion": "1993-06-25T00:21:36.941Z",
+		"state": "retired "
+	},
+	{
+		"id": 173,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 88499,
+		"fechaDeCreacion": "2001-04-27T00:45:44.560Z",
+		"state": "retired "
+	},
+	{
+		"id": 174,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 10857,
+		"fechaDeCreacion": "2000-05-09T23:27:01.600Z",
+		"state": "retired "
+	},
+	{
+		"id": 175,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 189106,
+		"fechaDeCreacion": "2001-08-30T16:56:23.676Z",
+		"state": "retired "
+	},
+	{
+		"id": 176,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 111136,
+		"fechaDeCreacion": "1991-01-25T20:04:47.402Z",
+		"state": "retired "
+	},
+	{
+		"id": 177,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 29973,
+		"fechaDeCreacion": "1984-01-02T19:44:54.475Z",
+		"state": "retired "
+	},
+	{
+		"id": 178,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 135549,
+		"fechaDeCreacion": "1995-08-25T06:46:52.700Z",
+		"state": "retired "
+	},
+	{
+		"id": 179,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 181848,
+		"fechaDeCreacion": "1991-04-11T16:48:29.054Z",
+		"state": "retired "
+	},
+	{
+		"id": 180,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 123205,
+		"fechaDeCreacion": "1992-10-23T21:41:11.825Z",
+		"state": "retired "
+	},
+	{
+		"id": 181,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 111180,
+		"fechaDeCreacion": "1993-11-18T15:55:04.778Z",
+		"state": "retired "
+	},
+	{
+		"id": 182,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 95887,
+		"fechaDeCreacion": "1992-06-09T00:33:38.712Z",
+		"state": "retired "
+	},
+	{
+		"id": 183,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 28941,
+		"fechaDeCreacion": "1992-07-16T09:36:17.080Z",
+		"state": "retired "
+	},
+	{
+		"id": 184,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 80032,
+		"fechaDeCreacion": "1981-08-25T02:18:58.364Z",
+		"state": "retired "
+	},
+	{
+		"id": 185,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 114658,
+		"fechaDeCreacion": "1996-12-17T21:15:32.143Z",
+		"state": "retired "
+	},
+	{
+		"id": 186,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 194891,
+		"fechaDeCreacion": "1991-10-15T15:47:38.897Z",
+		"state": "retired "
+	},
+	{
+		"id": 187,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 172606,
+		"fechaDeCreacion": "1999-09-03T20:34:48.368Z",
+		"state": "retired "
+	},
+	{
+		"id": 188,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 61861,
+		"fechaDeCreacion": "2003-01-07T04:31:35.467Z",
+		"state": "retired "
+	},
+	{
+		"id": 189,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 37907,
+		"fechaDeCreacion": "1998-06-26T16:08:05.809Z",
+		"state": "retired "
+	},
+	{
+		"id": 190,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 192657,
+		"fechaDeCreacion": "1992-07-09T06:35:06.378Z",
+		"state": "retired "
+	},
+	{
+		"id": 191,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 127256,
+		"fechaDeCreacion": "1996-08-01T21:19:20.092Z",
+		"state": "retired "
+	},
+	{
+		"id": 192,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 24580,
+		"fechaDeCreacion": "1993-11-26T13:19:06.694Z",
+		"state": "retired "
+	},
+	{
+		"id": 193,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 104128,
+		"fechaDeCreacion": "2001-09-13T00:24:59.033Z",
+		"state": "retired "
+	},
+	{
+		"id": 194,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 25998,
+		"fechaDeCreacion": "2002-11-16T07:23:58.817Z",
+		"state": "retired "
+	},
+	{
+		"id": 195,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 196265,
+		"fechaDeCreacion": "1981-08-23T00:27:52.637Z",
+		"state": "retired "
+	},
+	{
+		"id": 196,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 195489,
+		"fechaDeCreacion": "1998-09-13T20:55:28.133Z",
+		"state": "retired "
+	},
+	{
+		"id": 197,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 4220,
+		"fechaDeCreacion": "1998-05-29T04:24:20.850Z",
+		"state": "retired "
+	},
+	{
+		"id": 198,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 113855,
+		"fechaDeCreacion": "1981-02-22T14:50:47.640Z",
+		"state": "retired "
+	},
+	{
+		"id": 199,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 87345,
+		"fechaDeCreacion": "1987-07-16T05:28:48.999Z",
+		"state": "retired "
+	},
+	{
+		"id": 200,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 165090,
+		"fechaDeCreacion": "1993-01-12T03:34:54.275Z",
+		"state": "retired "
+	},
+	{
+		"id": 201,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 111596,
+		"fechaDeCreacion": "1990-06-06T04:30:33.367Z",
+		"state": "retired "
+	},
+	{
+		"id": 202,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 121015,
+		"fechaDeCreacion": "1984-09-07T12:59:55.229Z",
+		"state": "retired "
+	},
+	{
+		"id": 203,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 78680,
+		"fechaDeCreacion": "1991-01-20T00:49:14.099Z",
+		"state": "retired "
+	},
+	{
+		"id": 204,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 130664,
+		"fechaDeCreacion": "1999-10-07T05:27:04.237Z",
+		"state": "retired "
+	},
+	{
+		"id": 205,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 178331,
+		"fechaDeCreacion": "2002-11-08T10:59:11.600Z",
+		"state": "retired "
+	},
+	{
+		"id": 206,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 120812,
+		"fechaDeCreacion": "1999-05-22T06:10:06.173Z",
+		"state": "retired "
+	},
+	{
+		"id": 207,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 69383,
+		"fechaDeCreacion": "1981-05-23T11:08:40.523Z",
+		"state": "retired "
+	},
+	{
+		"id": 208,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 70075,
+		"fechaDeCreacion": "2001-09-11T01:22:04.820Z",
+		"state": "retired "
+	},
+	{
+		"id": 209,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 110195,
+		"fechaDeCreacion": "1992-03-04T19:09:03.409Z",
+		"state": "retired "
+	},
+	{
+		"id": 210,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 32055,
+		"fechaDeCreacion": "1999-09-22T06:43:01.835Z",
+		"state": "retired "
+	},
+	{
+		"id": 211,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 89356,
+		"fechaDeCreacion": "1997-05-21T18:32:52.352Z",
+		"state": "retired "
+	},
+	{
+		"id": 212,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 83535,
+		"fechaDeCreacion": "1996-05-14T23:42:42.956Z",
+		"state": "retired "
+	},
+	{
+		"id": 213,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 134885,
+		"fechaDeCreacion": "1997-03-16T02:04:37.566Z",
+		"state": "retired "
+	},
+	{
+		"id": 214,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 97266,
+		"fechaDeCreacion": "1995-04-02T16:28:05.890Z",
+		"state": "retired "
+	},
+	{
+		"id": 215,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 148807,
+		"fechaDeCreacion": "1986-05-31T12:32:09.544Z",
+		"state": "retired "
+	},
+	{
+		"id": 216,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 76615,
+		"fechaDeCreacion": "1996-08-05T23:10:14.363Z",
+		"state": "retired "
+	},
+	{
+		"id": 217,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 167062,
+		"fechaDeCreacion": "1984-02-25T09:42:12.747Z",
+		"state": "retired "
+	},
+	{
+		"id": 218,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 148224,
+		"fechaDeCreacion": "1992-06-29T17:07:45.515Z",
+		"state": "retired "
+	},
+	{
+		"id": 219,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 124715,
+		"fechaDeCreacion": "1989-06-18T02:06:37.819Z",
+		"state": "retired "
+	},
+	{
+		"id": 220,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 199330,
+		"fechaDeCreacion": "1991-01-20T07:53:47.206Z",
+		"state": "retired "
+	},
+	{
+		"id": 221,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 188267,
+		"fechaDeCreacion": "1980-02-09T03:59:21.307Z",
+		"state": "retired "
+	},
+	{
+		"id": 222,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 29834,
+		"fechaDeCreacion": "1989-06-11T02:21:26.825Z",
+		"state": "retired "
+	},
+	{
+		"id": 223,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 106765,
+		"fechaDeCreacion": "1985-06-07T09:19:38.962Z",
+		"state": "retired "
+	},
+	{
+		"id": 224,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 21761,
+		"fechaDeCreacion": "2003-11-14T04:08:41.373Z",
+		"state": "retired "
+	},
+	{
+		"id": 225,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 170847,
+		"fechaDeCreacion": "1995-06-23T19:40:55.924Z",
+		"state": "retired "
+	},
+	{
+		"id": 226,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 185143,
+		"fechaDeCreacion": "1993-07-04T03:00:48.258Z",
+		"state": "retired "
+	},
+	{
+		"id": 227,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 69735,
+		"fechaDeCreacion": "2002-06-11T05:17:37.761Z",
+		"state": "retired "
+	},
+	{
+		"id": 228,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 27646,
+		"fechaDeCreacion": "1980-04-14T18:44:21.113Z",
+		"state": "retired "
+	},
+	{
+		"id": 229,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 60637,
+		"fechaDeCreacion": "1990-12-06T03:26:24.108Z",
+		"state": "retired "
+	},
+	{
+		"id": 230,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 182176,
+		"fechaDeCreacion": "1991-04-24T09:22:05.325Z",
+		"state": "retired "
+	},
+	{
+		"id": 231,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 176737,
+		"fechaDeCreacion": "1991-12-19T00:03:49.470Z",
+		"state": "retired "
+	},
+	{
+		"id": 232,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 77439,
+		"fechaDeCreacion": "1998-02-28T17:42:42.076Z",
+		"state": "retired "
+	},
+	{
+		"id": 233,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 57790,
+		"fechaDeCreacion": "1993-01-10T22:09:42.489Z",
+		"state": "retired "
+	},
+	{
+		"id": 234,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 187958,
+		"fechaDeCreacion": "1999-08-13T15:07:35.023Z",
+		"state": "retired "
+	},
+	{
+		"id": 235,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 173097,
+		"fechaDeCreacion": "1983-08-12T03:00:49.769Z",
+		"state": "retired "
+	},
+	{
+		"id": 236,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 113838,
+		"fechaDeCreacion": "1985-11-27T03:14:26.451Z",
+		"state": "retired "
+	},
+	{
+		"id": 237,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 179765,
+		"fechaDeCreacion": "1990-10-19T05:57:15.238Z",
+		"state": "retired "
+	},
+	{
+		"id": 238,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 40361,
+		"fechaDeCreacion": "2003-07-21T20:51:56.192Z",
+		"state": "retired "
+	},
+	{
+		"id": 239,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 43127,
+		"fechaDeCreacion": "1996-11-03T08:27:02.855Z",
+		"state": "retired "
+	},
+	{
+		"id": 240,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 71323,
+		"fechaDeCreacion": "1980-07-03T02:12:34.449Z",
+		"state": "retired "
+	},
+	{
+		"id": 241,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 12233,
+		"fechaDeCreacion": "1990-01-31T03:48:40.294Z",
+		"state": "retired "
+	},
+	{
+		"id": 242,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 109849,
+		"fechaDeCreacion": "1999-09-13T02:09:20.592Z",
+		"state": "retired "
+	},
+	{
+		"id": 243,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 184236,
+		"fechaDeCreacion": "1989-02-01T05:35:21.293Z",
+		"state": "retired "
+	},
+	{
+		"id": 244,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 62680,
+		"fechaDeCreacion": "1992-02-20T01:12:02.817Z",
+		"state": "retired "
+	},
+	{
+		"id": 245,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 131831,
+		"fechaDeCreacion": "1984-01-29T19:12:05.435Z",
+		"state": "retired "
+	},
+	{
+		"id": 246,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 46695,
+		"fechaDeCreacion": "2002-08-22T14:18:50.091Z",
+		"state": "retired "
+	},
+	{
+		"id": 247,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 101989,
+		"fechaDeCreacion": "1992-06-18T13:58:46.614Z",
+		"state": "retired "
+	},
+	{
+		"id": 248,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 178842,
+		"fechaDeCreacion": "1999-04-03T09:30:11.819Z",
+		"state": "retired "
+	},
+	{
+		"id": 249,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 74037,
+		"fechaDeCreacion": "1988-12-19T18:43:17.877Z",
+		"state": "retired "
+	},
+	{
+		"id": 250,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 136155,
+		"fechaDeCreacion": "1987-07-14T12:16:32.190Z",
+		"state": "retired "
+	},
+	{
+		"id": 251,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 185430,
+		"fechaDeCreacion": "1989-12-11T16:29:38.480Z",
+		"state": "retired "
+	},
+	{
+		"id": 252,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 51839,
+		"fechaDeCreacion": "2003-12-05T12:19:35.901Z",
+		"state": "retired "
+	},
+	{
+		"id": 253,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 109947,
+		"fechaDeCreacion": "1995-02-05T21:42:12.609Z",
+		"state": "retired "
+	},
+	{
+		"id": 254,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 96523,
+		"fechaDeCreacion": "1996-03-25T04:09:03.694Z",
+		"state": "retired "
+	},
+	{
+		"id": 255,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 132070,
+		"fechaDeCreacion": "1999-10-08T23:10:40.497Z",
+		"state": "retired "
+	},
+	{
+		"id": 256,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 107008,
+		"fechaDeCreacion": "1995-02-20T17:24:54.896Z",
+		"state": "retired "
+	},
+	{
+		"id": 257,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 114767,
+		"fechaDeCreacion": "1994-06-04T02:59:17.124Z",
+		"state": "retired "
+	},
+	{
+		"id": 258,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 80565,
+		"fechaDeCreacion": "1992-07-07T22:12:54.935Z",
+		"state": "retired "
+	},
+	{
+		"id": 259,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 81419,
+		"fechaDeCreacion": "2000-08-29T09:41:03.532Z",
+		"state": "retired "
+	},
+	{
+		"id": 260,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 10289,
+		"fechaDeCreacion": "1988-09-23T02:06:55.884Z",
+		"state": "retired "
+	},
+	{
+		"id": 261,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 55025,
+		"fechaDeCreacion": "1981-11-17T12:35:49.063Z",
+		"state": "retired "
+	},
+	{
+		"id": 262,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 190212,
+		"fechaDeCreacion": "1998-02-08T23:57:23.307Z",
+		"state": "retired "
+	},
+	{
+		"id": 263,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 46993,
+		"fechaDeCreacion": "1981-02-04T04:20:34.255Z",
+		"state": "retired "
+	},
+	{
+		"id": 264,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 89090,
+		"fechaDeCreacion": "2000-04-22T09:24:20.554Z",
+		"state": "retired "
+	},
+	{
+		"id": 265,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 71903,
+		"fechaDeCreacion": "1992-06-06T06:58:09.946Z",
+		"state": "retired "
+	},
+	{
+		"id": 266,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 91204,
+		"fechaDeCreacion": "1982-04-12T05:33:51.751Z",
+		"state": "retired "
+	},
+	{
+		"id": 267,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 25041,
+		"fechaDeCreacion": "1990-04-17T18:29:10.771Z",
+		"state": "retired "
+	},
+	{
+		"id": 268,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 73258,
+		"fechaDeCreacion": "1999-05-18T21:30:08.914Z",
+		"state": "retired "
+	},
+	{
+		"id": 269,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 112101,
+		"fechaDeCreacion": "1995-09-10T09:24:19.556Z",
+		"state": "retired "
+	},
+	{
+		"id": 270,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 175416,
+		"fechaDeCreacion": "1998-11-12T22:11:56.551Z",
+		"state": "retired "
+	},
+	{
+		"id": 271,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 153990,
+		"fechaDeCreacion": "1985-01-22T20:33:12.223Z",
+		"state": "retired "
+	},
+	{
+		"id": 272,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 63698,
+		"fechaDeCreacion": "1991-12-06T12:42:34.103Z",
+		"state": "retired "
+	},
+	{
+		"id": 273,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 49041,
+		"fechaDeCreacion": "1988-12-19T23:19:19.550Z",
+		"state": "retired "
+	},
+	{
+		"id": 274,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 93835,
+		"fechaDeCreacion": "1980-02-19T17:22:42.437Z",
+		"state": "retired "
+	},
+	{
+		"id": 275,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 108319,
+		"fechaDeCreacion": "1991-10-24T10:58:48.666Z",
+		"state": "retired "
+	},
+	{
+		"id": 276,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 123807,
+		"fechaDeCreacion": "1988-12-21T16:10:07.300Z",
+		"state": "retired "
+	},
+	{
+		"id": 277,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 197661,
+		"fechaDeCreacion": "1989-02-08T04:49:56.216Z",
+		"state": "retired "
+	},
+	{
+		"id": 278,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 12613,
+		"fechaDeCreacion": "1992-07-08T08:26:54.507Z",
+		"state": "retired "
+	},
+	{
+		"id": 279,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 149522,
+		"fechaDeCreacion": "1980-11-17T03:52:12.936Z",
+		"state": "retired "
+	},
+	{
+		"id": 280,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 36759,
+		"fechaDeCreacion": "2001-09-03T20:48:32.224Z",
+		"state": "retired "
+	},
+	{
+		"id": 281,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 138475,
+		"fechaDeCreacion": "1983-02-28T14:43:01.482Z",
+		"state": "retired "
+	},
+	{
+		"id": 282,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 171916,
+		"fechaDeCreacion": "1995-04-03T23:10:03.372Z",
+		"state": "retired "
+	},
+	{
+		"id": 283,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 103950,
+		"fechaDeCreacion": "2000-02-04T20:56:39.931Z",
+		"state": "retired "
+	},
+	{
+		"id": 284,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 39351,
+		"fechaDeCreacion": "1999-11-11T13:33:26.358Z",
+		"state": "retired "
+	},
+	{
+		"id": 285,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 35938,
+		"fechaDeCreacion": "2001-11-03T15:52:10.361Z",
+		"state": "retired "
+	},
+	{
+		"id": 286,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 121186,
+		"fechaDeCreacion": "1984-10-30T23:49:30.195Z",
+		"state": "retired "
+	},
+	{
+		"id": 287,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 85775,
+		"fechaDeCreacion": "1999-05-03T05:35:19.023Z",
+		"state": "retired "
+	},
+	{
+		"id": 288,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 39012,
+		"fechaDeCreacion": "1983-02-05T02:00:48.306Z",
+		"state": "retired "
+	},
+	{
+		"id": 289,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 73091,
+		"fechaDeCreacion": "1989-02-25T16:29:23.947Z",
+		"state": "retired "
+	},
+	{
+		"id": 290,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 48281,
+		"fechaDeCreacion": "1994-03-17T09:25:17.182Z",
+		"state": "retired "
+	},
+	{
+		"id": 291,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 60434,
+		"fechaDeCreacion": "1997-04-16T11:49:38.236Z",
+		"state": "retired "
+	},
+	{
+		"id": 292,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 184811,
+		"fechaDeCreacion": "1982-12-15T13:27:24.599Z",
+		"state": "retired "
+	},
+	{
+		"id": 293,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 178124,
+		"fechaDeCreacion": "1997-01-02T02:49:59.977Z",
+		"state": "retired "
+	},
+	{
+		"id": 294,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 144847,
+		"fechaDeCreacion": "1992-07-19T02:30:27.185Z",
+		"state": "retired "
+	},
+	{
+		"id": 295,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 86727,
+		"fechaDeCreacion": "1995-03-18T07:07:52.888Z",
+		"state": "retired "
+	},
+	{
+		"id": 296,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 138051,
+		"fechaDeCreacion": "1999-03-30T02:12:13.171Z",
+		"state": "retired "
+	},
+	{
+		"id": 297,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 180550,
+		"fechaDeCreacion": "1983-05-12T07:20:35.114Z",
+		"state": "retired "
+	},
+	{
+		"id": 298,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 65526,
+		"fechaDeCreacion": "2003-04-03T10:09:09.818Z",
+		"state": "retired "
+	},
+	{
+		"id": 299,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 153067,
+		"fechaDeCreacion": "2001-11-04T09:06:26.286Z",
+		"state": "retired "
+	},
+	{
+		"id": 300,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 32930,
+		"fechaDeCreacion": "1998-08-14T19:29:27.576Z",
+		"state": "retired "
+	},
+	{
+		"id": 301,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 73807,
+		"fechaDeCreacion": "1990-12-07T05:09:22.865Z",
+		"state": "retired "
+	},
+	{
+		"id": 302,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 34345,
+		"fechaDeCreacion": "1988-10-06T16:38:15.192Z",
+		"state": "retired "
+	},
+	{
+		"id": 303,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 10079,
+		"fechaDeCreacion": "1998-09-15T12:22:40.898Z",
+		"state": "retired "
+	},
+	{
+		"id": 304,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 112967,
+		"fechaDeCreacion": "1994-09-24T01:09:21.041Z",
+		"state": "retired "
+	},
+	{
+		"id": 305,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 11893,
+		"fechaDeCreacion": "1989-03-08T07:13:08.555Z",
+		"state": "retired "
+	},
+	{
+		"id": 306,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 35984,
+		"fechaDeCreacion": "1995-04-13T14:17:00.284Z",
+		"state": "retired "
+	},
+	{
+		"id": 307,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 9092,
+		"fechaDeCreacion": "1987-01-09T05:23:08.978Z",
+		"state": "retired "
+	},
+	{
+		"id": 308,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 81207,
+		"fechaDeCreacion": "2003-01-19T21:31:23.826Z",
+		"state": "retired "
+	},
+	{
+		"id": 309,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 119176,
+		"fechaDeCreacion": "1994-07-08T22:49:34.257Z",
+		"state": "retired "
+	},
+	{
+		"id": 310,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 175452,
+		"fechaDeCreacion": "1998-06-20T23:32:05.046Z",
+		"state": "retired "
+	},
+	{
+		"id": 311,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 182252,
+		"fechaDeCreacion": "1994-02-14T17:13:35.309Z",
+		"state": "retired "
+	},
+	{
+		"id": 312,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 101255,
+		"fechaDeCreacion": "1985-07-14T00:31:20.659Z",
+		"state": "retired "
+	},
+	{
+		"id": 313,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 49461,
+		"fechaDeCreacion": "1983-11-29T20:13:27.887Z",
+		"state": "retired "
+	},
+	{
+		"id": 314,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 15133,
+		"fechaDeCreacion": "1994-10-22T16:00:00.811Z",
+		"state": "retired "
+	},
+	{
+		"id": 315,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 71269,
+		"fechaDeCreacion": "1999-05-02T07:16:05.693Z",
+		"state": "retired "
+	},
+	{
+		"id": 316,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 123864,
+		"fechaDeCreacion": "2001-12-31T14:20:29.199Z",
+		"state": "retired "
+	},
+	{
+		"id": 317,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 50727,
+		"fechaDeCreacion": "1992-06-05T00:01:42.217Z",
+		"state": "retired "
+	},
+	{
+		"id": 318,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 92233,
+		"fechaDeCreacion": "1984-12-21T14:35:26.212Z",
+		"state": "retired "
+	},
+	{
+		"id": 319,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 109930,
+		"fechaDeCreacion": "1981-02-24T00:18:21.102Z",
+		"state": "retired "
+	},
+	{
+		"id": 320,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 130276,
+		"fechaDeCreacion": "2001-02-08T18:28:26.358Z",
+		"state": "retired "
+	},
+	{
+		"id": 321,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 174430,
+		"fechaDeCreacion": "1997-02-24T01:39:15.853Z",
+		"state": "retired "
+	},
+	{
+		"id": 322,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 121877,
+		"fechaDeCreacion": "1982-05-08T10:33:13.656Z",
+		"state": "retired "
+	},
+	{
+		"id": 323,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 18712,
+		"fechaDeCreacion": "1994-05-21T02:12:57.935Z",
+		"state": "retired "
+	},
+	{
+		"id": 324,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 91406,
+		"fechaDeCreacion": "1995-03-15T07:00:04.780Z",
+		"state": "retired "
+	},
+	{
+		"id": 325,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 6929,
+		"fechaDeCreacion": "1991-06-18T21:14:41.066Z",
+		"state": "retired "
+	},
+	{
+		"id": 326,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 62967,
+		"fechaDeCreacion": "1997-09-21T21:36:28.002Z",
+		"state": "retired "
+	},
+	{
+		"id": 327,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 176639,
+		"fechaDeCreacion": "1991-10-06T19:20:42.154Z",
+		"state": "retired "
+	},
+	{
+		"id": 328,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 135549,
+		"fechaDeCreacion": "2003-02-20T16:52:19.912Z",
+		"state": "retired "
+	},
+	{
+		"id": 329,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 199118,
+		"fechaDeCreacion": "1986-10-09T09:33:57.185Z",
+		"state": "retired "
+	},
+	{
+		"id": 330,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 118330,
+		"fechaDeCreacion": "1992-06-05T05:46:40.339Z",
+		"state": "retired "
+	},
+	{
+		"id": 331,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 116782,
+		"fechaDeCreacion": "1980-03-25T08:40:03.762Z",
+		"state": "retired "
+	},
+	{
+		"id": 332,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 57927,
+		"fechaDeCreacion": "2001-12-22T16:54:48.970Z",
+		"state": "retired "
+	},
+	{
+		"id": 333,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 21633,
+		"fechaDeCreacion": "2001-12-16T05:40:18.854Z",
+		"state": "retired "
+	},
+	{
+		"id": 334,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 193091,
+		"fechaDeCreacion": "1982-07-23T07:33:35.694Z",
+		"state": "retired "
+	},
+	{
+		"id": 335,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 166686,
+		"fechaDeCreacion": "1995-08-06T14:04:04.460Z",
+		"state": "retired "
+	},
+	{
+		"id": 336,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 11089,
+		"fechaDeCreacion": "1988-04-28T19:25:05.018Z",
+		"state": "retired "
+	},
+	{
+		"id": 337,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 124075,
+		"fechaDeCreacion": "1991-10-31T22:18:45.458Z",
+		"state": "retired "
+	},
+	{
+		"id": 338,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 18537,
+		"fechaDeCreacion": "1986-03-26T22:33:26.416Z",
+		"state": "retired "
+	},
+	{
+		"id": 339,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 151124,
+		"fechaDeCreacion": "1982-12-31T23:13:27.914Z",
+		"state": "retired "
+	},
+	{
+		"id": 340,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 132530,
+		"fechaDeCreacion": "1987-01-09T13:31:43.691Z",
+		"state": "retired "
+	},
+	{
+		"id": 341,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 141208,
+		"fechaDeCreacion": "1980-11-15T11:41:05.095Z",
+		"state": "retired "
+	},
+	{
+		"id": 342,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 165881,
+		"fechaDeCreacion": "1998-12-22T21:48:05.833Z",
+		"state": "retired "
+	},
+	{
+		"id": 343,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 188345,
+		"fechaDeCreacion": "1988-10-21T12:13:21.460Z",
+		"state": "retired "
+	},
+	{
+		"id": 344,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 56207,
+		"fechaDeCreacion": "1981-02-26T02:29:24.367Z",
+		"state": "retired "
+	},
+	{
+		"id": 345,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 178533,
+		"fechaDeCreacion": "1999-06-28T20:22:42.785Z",
+		"state": "retired "
+	},
+	{
+		"id": 346,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 10927,
+		"fechaDeCreacion": "1999-06-12T10:57:41.725Z",
+		"state": "retired "
+	},
+	{
+		"id": 347,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 149301,
+		"fechaDeCreacion": "2000-03-16T22:24:52.161Z",
+		"state": "retired "
+	},
+	{
+		"id": 348,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 167043,
+		"fechaDeCreacion": "1981-06-01T22:36:57.603Z",
+		"state": "retired "
+	},
+	{
+		"id": 349,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 35101,
+		"fechaDeCreacion": "1982-08-04T12:47:28.332Z",
+		"state": "retired "
+	},
+	{
+		"id": 350,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 27096,
+		"fechaDeCreacion": "1993-09-12T16:27:33.772Z",
+		"state": "retired "
+	},
+	{
+		"id": 351,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 150299,
+		"fechaDeCreacion": "1992-08-13T16:10:45.764Z",
+		"state": "retired "
+	},
+	{
+		"id": 352,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 118661,
+		"fechaDeCreacion": "1997-07-10T19:44:14.258Z",
+		"state": "retired "
+	},
+	{
+		"id": 353,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 76786,
+		"fechaDeCreacion": "2003-10-23T03:38:30.453Z",
+		"state": "retired "
+	},
+	{
+		"id": 354,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 154256,
+		"fechaDeCreacion": "1997-07-05T11:52:17.360Z",
+		"state": "retired "
+	},
+	{
+		"id": 355,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 15515,
+		"fechaDeCreacion": "1997-07-16T19:21:54.431Z",
+		"state": "retired "
+	},
+	{
+		"id": 356,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 189543,
+		"fechaDeCreacion": "1988-10-09T01:43:28.372Z",
+		"state": "retired "
+	},
+	{
+		"id": 357,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 193113,
+		"fechaDeCreacion": "1999-07-09T02:40:05.106Z",
+		"state": "retired "
+	},
+	{
+		"id": 358,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 95160,
+		"fechaDeCreacion": "2003-06-07T10:21:49.253Z",
+		"state": "retired "
+	},
+	{
+		"id": 359,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 156153,
+		"fechaDeCreacion": "1992-01-02T16:34:51.096Z",
+		"state": "retired "
+	},
+	{
+		"id": 360,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 142815,
+		"fechaDeCreacion": "1997-09-12T18:59:09.366Z",
+		"state": "retired "
+	},
+	{
+		"id": 361,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 72388,
+		"fechaDeCreacion": "2000-05-28T08:10:37.303Z",
+		"state": "retired "
+	},
+	{
+		"id": 362,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 93385,
+		"fechaDeCreacion": "1988-12-15T17:47:47.474Z",
+		"state": "retired "
+	},
+	{
+		"id": 363,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 108143,
+		"fechaDeCreacion": "1985-12-21T15:17:22.382Z",
+		"state": "retired "
+	},
+	{
+		"id": 364,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 163109,
+		"fechaDeCreacion": "1980-04-03T09:05:55.509Z",
+		"state": "retired "
+	},
+	{
+		"id": 365,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 86706,
+		"fechaDeCreacion": "1991-07-15T14:11:42.648Z",
+		"state": "retired "
+	},
+	{
+		"id": 366,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 6139,
+		"fechaDeCreacion": "1982-01-14T13:44:37.752Z",
+		"state": "retired "
+	},
+	{
+		"id": 367,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 13585,
+		"fechaDeCreacion": "1997-09-19T04:28:20.096Z",
+		"state": "retired "
+	},
+	{
+		"id": 368,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 185241,
+		"fechaDeCreacion": "1987-09-15T22:08:59.278Z",
+		"state": "retired "
+	},
+	{
+		"id": 369,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 107695,
+		"fechaDeCreacion": "2000-09-04T04:11:26.637Z",
+		"state": "retired "
+	},
+	{
+		"id": 370,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 43843,
+		"fechaDeCreacion": "1981-06-02T21:48:53.094Z",
+		"state": "retired "
+	},
+	{
+		"id": 371,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 86222,
+		"fechaDeCreacion": "2003-12-24T14:25:44.637Z",
+		"state": "retired "
+	},
+	{
+		"id": 372,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 161527,
+		"fechaDeCreacion": "1987-03-28T18:29:42.342Z",
+		"state": "retired "
+	},
+	{
+		"id": 373,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 121033,
+		"fechaDeCreacion": "1993-10-04T11:42:39.966Z",
+		"state": "retired "
+	},
+	{
+		"id": 374,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 97957,
+		"fechaDeCreacion": "2002-02-17T19:23:45.351Z",
+		"state": "retired "
+	},
+	{
+		"id": 375,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 180159,
+		"fechaDeCreacion": "1990-08-05T14:25:01.680Z",
+		"state": "retired "
+	},
+	{
+		"id": 376,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 34013,
+		"fechaDeCreacion": "1983-03-24T10:17:47.409Z",
+		"state": "retired "
+	},
+	{
+		"id": 377,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 88369,
+		"fechaDeCreacion": "1987-10-18T18:36:38.415Z",
+		"state": "retired "
+	},
+	{
+		"id": 378,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 193625,
+		"fechaDeCreacion": "1991-11-02T06:06:06.369Z",
+		"state": "retired "
+	},
+	{
+		"id": 379,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 102070,
+		"fechaDeCreacion": "1990-07-02T05:40:24.561Z",
+		"state": "retired "
+	},
+	{
+		"id": 380,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 13209,
+		"fechaDeCreacion": "1984-12-18T08:48:36.897Z",
+		"state": "retired "
+	},
+	{
+		"id": 381,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 143390,
+		"fechaDeCreacion": "1985-06-05T17:43:48.105Z",
+		"state": "retired "
+	},
+	{
+		"id": 382,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 85839,
+		"fechaDeCreacion": "1982-07-03T20:43:04.401Z",
+		"state": "retired "
+	},
+	{
+		"id": 383,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 190727,
+		"fechaDeCreacion": "1994-12-17T10:45:22.352Z",
+		"state": "retired "
+	},
+	{
+		"id": 384,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 115580,
+		"fechaDeCreacion": "1989-12-21T02:14:05.050Z",
+		"state": "retired "
+	},
+	{
+		"id": 385,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 186751,
+		"fechaDeCreacion": "1983-10-11T14:01:39.352Z",
+		"state": "retired "
+	},
+	{
+		"id": 386,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 152569,
+		"fechaDeCreacion": "1992-02-25T01:06:36.335Z",
+		"state": "retired "
+	},
+	{
+		"id": 387,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 38303,
+		"fechaDeCreacion": "1997-05-09T05:49:28.583Z",
+		"state": "retired "
+	},
+	{
+		"id": 388,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 176902,
+		"fechaDeCreacion": "1985-11-27T14:25:49.098Z",
+		"state": "retired "
+	},
+	{
+		"id": 389,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 21538,
+		"fechaDeCreacion": "1991-09-24T06:13:50.649Z",
+		"state": "retired "
+	},
+	{
+		"id": 390,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 151624,
+		"fechaDeCreacion": "1981-05-20T23:54:50.449Z",
+		"state": "retired "
+	},
+	{
+		"id": 391,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 38308,
+		"fechaDeCreacion": "1985-06-11T21:20:34.744Z",
+		"state": "retired "
+	},
+	{
+		"id": 392,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 57046,
+		"fechaDeCreacion": "2002-08-11T21:57:17.179Z",
+		"state": "retired "
+	},
+	{
+		"id": 393,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 73374,
+		"fechaDeCreacion": "1994-09-25T09:17:15.463Z",
+		"state": "retired "
+	},
+	{
+		"id": 394,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 77710,
+		"fechaDeCreacion": "2003-07-10T00:05:48.897Z",
+		"state": "retired "
+	},
+	{
+		"id": 395,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 85628,
+		"fechaDeCreacion": "1992-04-27T01:26:00.554Z",
+		"state": "retired "
+	},
+	{
+		"id": 396,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 172392,
+		"fechaDeCreacion": "1991-08-04T07:33:36.501Z",
+		"state": "retired "
+	},
+	{
+		"id": 397,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 109221,
+		"fechaDeCreacion": "1983-07-14T03:42:02.612Z",
+		"state": "retired "
+	},
+	{
+		"id": 398,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 101280,
+		"fechaDeCreacion": "1982-02-06T19:19:38.585Z",
+		"state": "retired "
+	},
+	{
+		"id": 399,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 151229,
+		"fechaDeCreacion": "2001-07-07T12:32:49.708Z",
+		"state": "retired "
+	},
+	{
+		"id": 400,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 42564,
+		"fechaDeCreacion": "1992-08-29T17:06:19.907Z",
+		"state": "retired "
+	},
+	{
+		"id": 401,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 143120,
+		"fechaDeCreacion": "1984-08-07T19:50:24.888Z",
+		"state": "retired "
+	},
+	{
+		"id": 402,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 142343,
+		"fechaDeCreacion": "1997-09-14T14:36:18.593Z",
+		"state": "retired "
+	},
+	{
+		"id": 403,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 47367,
+		"fechaDeCreacion": "1996-06-26T01:15:39.011Z",
+		"state": "retired "
+	},
+	{
+		"id": 404,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 100590,
+		"fechaDeCreacion": "1999-02-11T18:14:52.827Z",
+		"state": "retired "
+	},
+	{
+		"id": 405,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 102823,
+		"fechaDeCreacion": "1992-07-15T19:59:32.390Z",
+		"state": "retired "
+	},
+	{
+		"id": 406,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 78659,
+		"fechaDeCreacion": "1981-05-20T11:08:10.977Z",
+		"state": "retired "
+	},
+	{
+		"id": 407,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 187263,
+		"fechaDeCreacion": "1998-01-21T10:57:38.001Z",
+		"state": "retired "
+	},
+	{
+		"id": 408,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 7220,
+		"fechaDeCreacion": "1995-01-31T03:12:52.986Z",
+		"state": "retired "
+	},
+	{
+		"id": 409,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 180137,
+		"fechaDeCreacion": "1984-02-26T17:21:17.432Z",
+		"state": "retired "
+	},
+	{
+		"id": 410,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 81841,
+		"fechaDeCreacion": "2000-06-07T13:26:49.069Z",
+		"state": "retired "
+	},
+	{
+		"id": 411,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 10355,
+		"fechaDeCreacion": "1981-08-02T07:46:43.848Z",
+		"state": "retired "
+	},
+	{
+		"id": 412,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 196755,
+		"fechaDeCreacion": "2000-11-27T16:20:56.872Z",
+		"state": "retired "
+	},
+	{
+		"id": 413,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 163817,
+		"fechaDeCreacion": "2001-07-16T04:53:36.235Z",
+		"state": "retired "
+	},
+	{
+		"id": 414,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 23806,
+		"fechaDeCreacion": "1988-02-29T06:45:44.549Z",
+		"state": "retired "
+	},
+	{
+		"id": 415,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 195295,
+		"fechaDeCreacion": "1993-04-07T06:59:12.491Z",
+		"state": "retired "
+	},
+	{
+		"id": 416,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 183677,
+		"fechaDeCreacion": "1994-11-06T06:52:40.629Z",
+		"state": "retired "
+	},
+	{
+		"id": 417,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 57465,
+		"fechaDeCreacion": "1985-03-17T13:21:22.480Z",
+		"state": "retired "
+	},
+	{
+		"id": 418,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 54462,
+		"fechaDeCreacion": "1998-06-02T20:43:50.833Z",
+		"state": "retired "
+	},
+	{
+		"id": 419,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 161412,
+		"fechaDeCreacion": "1993-03-16T00:39:37.172Z",
+		"state": "retired "
+	},
+	{
+		"id": 420,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 58626,
+		"fechaDeCreacion": "2002-06-24T18:49:33.730Z",
+		"state": "retired "
+	},
+	{
+		"id": 421,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 94705,
+		"fechaDeCreacion": "1986-05-13T09:31:29.405Z",
+		"state": "retired "
+	},
+	{
+		"id": 422,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 182620,
+		"fechaDeCreacion": "2001-04-04T01:30:09.281Z",
+		"state": "retired "
+	},
+	{
+		"id": 423,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 7042,
+		"fechaDeCreacion": "1992-07-26T13:16:41.689Z",
+		"state": "retired "
+	},
+	{
+		"id": 424,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 87391,
+		"fechaDeCreacion": "2000-12-20T12:22:31.121Z",
+		"state": "retired "
+	},
+	{
+		"id": 425,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 86697,
+		"fechaDeCreacion": "1987-02-14T02:49:15.828Z",
+		"state": "retired "
+	},
+	{
+		"id": 426,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 124565,
+		"fechaDeCreacion": "1984-08-03T10:41:11.878Z",
+		"state": "retired "
+	},
+	{
+		"id": 427,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 117225,
+		"fechaDeCreacion": "1990-10-28T18:31:03.153Z",
+		"state": "retired "
+	},
+	{
+		"id": 428,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 15437,
+		"fechaDeCreacion": "1997-08-27T01:49:22.491Z",
+		"state": "retired "
+	},
+	{
+		"id": 429,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 144418,
+		"fechaDeCreacion": "2000-07-16T10:09:33.740Z",
+		"state": "retired "
+	},
+	{
+		"id": 430,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 195673,
+		"fechaDeCreacion": "1993-05-22T23:54:49.221Z",
+		"state": "retired "
+	},
+	{
+		"id": 431,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 109188,
+		"fechaDeCreacion": "1988-07-08T07:32:49.405Z",
+		"state": "retired "
+	},
+	{
+		"id": 432,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 102012,
+		"fechaDeCreacion": "1980-12-10T21:02:13.499Z",
+		"state": "retired "
+	},
+	{
+		"id": 433,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 184599,
+		"fechaDeCreacion": "1986-06-25T19:21:24.249Z",
+		"state": "retired "
+	},
+	{
+		"id": 434,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 66791,
+		"fechaDeCreacion": "2000-03-22T03:32:11.976Z",
+		"state": "retired "
+	},
+	{
+		"id": 435,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 70934,
+		"fechaDeCreacion": "1982-01-18T18:17:49.972Z",
+		"state": "retired "
+	},
+	{
+		"id": 436,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 131585,
+		"fechaDeCreacion": "1997-07-21T16:51:48.757Z",
+		"state": "retired "
+	},
+	{
+		"id": 437,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 8813,
+		"fechaDeCreacion": "1998-02-26T20:01:01.598Z",
+		"state": "retired "
+	},
+	{
+		"id": 438,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 163749,
+		"fechaDeCreacion": "1980-10-03T14:20:07.264Z",
+		"state": "retired "
+	},
+	{
+		"id": 439,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 70702,
+		"fechaDeCreacion": "1986-05-15T20:40:33.629Z",
+		"state": "retired "
+	},
+	{
+		"id": 440,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 25871,
+		"fechaDeCreacion": "2001-11-18T06:19:37.695Z",
+		"state": "retired "
+	},
+	{
+		"id": 441,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 162048,
+		"fechaDeCreacion": "1985-06-13T21:39:56.137Z",
+		"state": "retired "
+	},
+	{
+		"id": 442,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 139448,
+		"fechaDeCreacion": "1997-04-16T20:05:34.157Z",
+		"state": "retired "
+	},
+	{
+		"id": 443,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 195997,
+		"fechaDeCreacion": "1984-02-10T22:58:11.801Z",
+		"state": "retired "
+	},
+	{
+		"id": 444,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 6118,
+		"fechaDeCreacion": "2003-06-16T20:45:49.208Z",
+		"state": "retired "
+	},
+	{
+		"id": 445,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 195122,
+		"fechaDeCreacion": "1983-07-25T22:39:51.181Z",
+		"state": "retired "
+	},
+	{
+		"id": 446,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 21548,
+		"fechaDeCreacion": "1989-03-05T09:03:57.780Z",
+		"state": "retired "
+	},
+	{
+		"id": 447,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 96801,
+		"fechaDeCreacion": "1992-04-26T13:58:25.911Z",
+		"state": "retired "
+	},
+	{
+		"id": 448,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 22987,
+		"fechaDeCreacion": "1995-09-23T03:47:56.655Z",
+		"state": "retired "
+	},
+	{
+		"id": 449,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 63379,
+		"fechaDeCreacion": "1993-04-01T08:37:45.920Z",
+		"state": "retired "
+	},
+	{
+		"id": 450,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 152161,
+		"fechaDeCreacion": "1986-08-06T17:49:35.456Z",
+		"state": "retired "
+	},
+	{
+		"id": 451,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 34729,
+		"fechaDeCreacion": "2003-01-24T04:18:40.760Z",
+		"state": "retired "
+	},
+	{
+		"id": 452,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 147178,
+		"fechaDeCreacion": "1990-01-02T10:55:53.344Z",
+		"state": "retired "
+	},
+	{
+		"id": 453,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 123863,
+		"fechaDeCreacion": "1980-01-15T04:44:46.331Z",
+		"state": "retired "
+	},
+	{
+		"id": 454,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 89927,
+		"fechaDeCreacion": "1996-09-10T15:47:40.566Z",
+		"state": "retired "
+	},
+	{
+		"id": 455,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 191643,
+		"fechaDeCreacion": "1998-01-17T12:50:28.458Z",
+		"state": "retired "
+	},
+	{
+		"id": 456,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 160016,
+		"fechaDeCreacion": "1983-12-26T23:58:42.718Z",
+		"state": "retired "
+	},
+	{
+		"id": 457,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 156250,
+		"fechaDeCreacion": "1997-08-21T06:25:17.091Z",
+		"state": "retired "
+	},
+	{
+		"id": 458,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 51779,
+		"fechaDeCreacion": "2002-08-25T05:25:23.087Z",
+		"state": "retired "
+	},
+	{
+		"id": 459,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 182013,
+		"fechaDeCreacion": "1987-03-05T22:02:44.322Z",
+		"state": "retired "
+	},
+	{
+		"id": 460,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 36255,
+		"fechaDeCreacion": "1990-12-29T11:37:22.345Z",
+		"state": "retired "
+	},
+	{
+		"id": 461,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 20405,
+		"fechaDeCreacion": "1981-10-23T03:20:57.149Z",
+		"state": "retired "
+	},
+	{
+		"id": 462,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 173852,
+		"fechaDeCreacion": "1986-04-02T13:39:06.522Z",
+		"state": "retired "
+	},
+	{
+		"id": 463,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 76705,
+		"fechaDeCreacion": "1990-12-30T14:23:26.455Z",
+		"state": "retired "
+	},
+	{
+		"id": 464,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 82476,
+		"fechaDeCreacion": "1989-03-11T21:22:01.816Z",
+		"state": "retired "
+	},
+	{
+		"id": 465,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 87582,
+		"fechaDeCreacion": "1981-05-03T10:03:07.512Z",
+		"state": "retired "
+	},
+	{
+		"id": 466,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 156447,
+		"fechaDeCreacion": "1992-04-10T05:36:38.140Z",
+		"state": "retired "
+	},
+	{
+		"id": 467,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 10008,
+		"fechaDeCreacion": "1986-07-06T01:35:55.871Z",
+		"state": "retired "
+	},
+	{
+		"id": 468,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 52533,
+		"fechaDeCreacion": "2002-01-30T21:00:57.803Z",
+		"state": "retired "
+	},
+	{
+		"id": 469,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 16913,
+		"fechaDeCreacion": "2003-02-04T22:25:39.673Z",
+		"state": "retired "
+	},
+	{
+		"id": 470,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 194229,
+		"fechaDeCreacion": "1982-10-21T08:38:37.351Z",
+		"state": "retired "
+	},
+	{
+		"id": 471,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 70460,
+		"fechaDeCreacion": "1999-09-06T06:16:05.262Z",
+		"state": "retired "
+	},
+	{
+		"id": 472,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 76817,
+		"fechaDeCreacion": "1999-04-12T04:31:22.908Z",
+		"state": "retired "
+	},
+	{
+		"id": 473,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 27960,
+		"fechaDeCreacion": "2000-05-13T06:29:59.402Z",
+		"state": "retired "
+	},
+	{
+		"id": 474,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 5567,
+		"fechaDeCreacion": "1999-04-04T15:17:31.635Z",
+		"state": "retired "
+	},
+	{
+		"id": 475,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 151954,
+		"fechaDeCreacion": "2001-01-23T15:53:36.799Z",
+		"state": "retired "
+	},
+	{
+		"id": 476,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 128651,
+		"fechaDeCreacion": "1995-08-25T01:57:02.398Z",
+		"state": "retired "
+	},
+	{
+		"id": 477,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 716,
+		"fechaDeCreacion": "1986-04-01T19:55:33.351Z",
+		"state": "retired "
+	},
+	{
+		"id": 478,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 149735,
+		"fechaDeCreacion": "1985-06-10T04:21:31.297Z",
+		"state": "retired "
+	},
+	{
+		"id": 479,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 55261,
+		"fechaDeCreacion": "1992-10-02T21:33:21.546Z",
+		"state": "retired "
+	},
+	{
+		"id": 480,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 31962,
+		"fechaDeCreacion": "1993-02-14T01:27:11.175Z",
+		"state": "retired "
+	},
+	{
+		"id": 481,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 173111,
+		"fechaDeCreacion": "1982-04-17T23:49:43.375Z",
+		"state": "retired "
+	},
+	{
+		"id": 482,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 20507,
+		"fechaDeCreacion": "2001-12-30T16:50:29.771Z",
+		"state": "retired "
+	},
+	{
+		"id": 483,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 138025,
+		"fechaDeCreacion": "1987-02-20T01:05:56.196Z",
+		"state": "retired "
+	},
+	{
+		"id": 484,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 98422,
+		"fechaDeCreacion": "1985-05-06T00:09:07.573Z",
+		"state": "retired "
+	},
+	{
+		"id": 485,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 15183,
+		"fechaDeCreacion": "1995-10-14T12:44:29.419Z",
+		"state": "retired "
+	},
+	{
+		"id": 486,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 140955,
+		"fechaDeCreacion": "1990-01-21T07:31:58.716Z",
+		"state": "retired "
+	},
+	{
+		"id": 487,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 154047,
+		"fechaDeCreacion": "1983-07-08T12:34:03.287Z",
+		"state": "retired "
+	},
+	{
+		"id": 488,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 157517,
+		"fechaDeCreacion": "1988-04-30T12:44:15.878Z",
+		"state": "retired "
+	},
+	{
+		"id": 489,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 197105,
+		"fechaDeCreacion": "1997-12-05T11:34:43.206Z",
+		"state": "retired "
+	},
+	{
+		"id": 490,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 165201,
+		"fechaDeCreacion": "1993-09-20T08:50:30.172Z",
+		"state": "retired "
+	},
+	{
+		"id": 491,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 68790,
+		"fechaDeCreacion": "1980-06-11T12:43:23.160Z",
+		"state": "retired "
+	},
+	{
+		"id": 492,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 41420,
+		"fechaDeCreacion": "1995-08-22T07:16:34.008Z",
+		"state": "retired "
+	},
+	{
+		"id": 493,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 124542,
+		"fechaDeCreacion": "1993-01-13T14:17:05.938Z",
+		"state": "retired "
+	},
+	{
+		"id": 494,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 26473,
+		"fechaDeCreacion": "1993-10-08T02:37:29.450Z",
+		"state": "retired "
+	},
+	{
+		"id": 495,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 122711,
+		"fechaDeCreacion": "1987-07-13T01:07:52.922Z",
+		"state": "retired "
+	},
+	{
+		"id": 496,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 123726,
+		"fechaDeCreacion": "2003-11-19T07:45:43.615Z",
+		"state": "retired "
+	},
+	{
+		"id": 497,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 10677,
+		"fechaDeCreacion": "1983-05-15T21:13:47.415Z",
+		"state": "retired "
+	},
+	{
+		"id": 498,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 102988,
+		"fechaDeCreacion": "1991-01-09T11:02:09.185Z",
+		"state": "retired "
+	},
+	{
+		"id": 499,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 107316,
+		"fechaDeCreacion": "1985-07-23T12:48:59.047Z",
+		"state": "retired "
+	},
+	{
+		"id": 500,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 82578,
+		"fechaDeCreacion": "1985-09-20T01:57:57.128Z",
+		"state": "retired "
+	},
+	{
+		"id": 501,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 88557,
+		"fechaDeCreacion": "1995-01-21T07:29:35.534Z",
+		"state": "retired "
+	},
+	{
+		"id": 502,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 53818,
+		"fechaDeCreacion": "1984-11-29T04:38:32.355Z",
+		"state": "retired "
+	},
+	{
+		"id": 503,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 16461,
+		"fechaDeCreacion": "1990-01-12T05:50:37.277Z",
+		"state": "retired "
+	},
+	{
+		"id": 504,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 120412,
+		"fechaDeCreacion": "1999-09-16T02:17:43.616Z",
+		"state": "retired "
+	},
+	{
+		"id": 505,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 132079,
+		"fechaDeCreacion": "1982-02-23T01:31:27.639Z",
+		"state": "retired "
+	},
+	{
+		"id": 506,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 111056,
+		"fechaDeCreacion": "1988-12-30T20:10:07.136Z",
+		"state": "retired "
+	},
+	{
+		"id": 507,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 121942,
+		"fechaDeCreacion": "1983-08-16T21:04:54.524Z",
+		"state": "retired "
+	},
+	{
+		"id": 508,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 2304,
+		"fechaDeCreacion": "1985-09-15T23:28:58.877Z",
+		"state": "retired "
+	},
+	{
+		"id": 509,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 115550,
+		"fechaDeCreacion": "2002-07-31T11:52:42.309Z",
+		"state": "retired "
+	},
+	{
+		"id": 510,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 125612,
+		"fechaDeCreacion": "1991-12-31T09:09:36.889Z",
+		"state": "retired "
+	},
+	{
+		"id": 511,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 33428,
+		"fechaDeCreacion": "2002-01-16T06:50:35.897Z",
+		"state": "retired "
+	},
+	{
+		"id": 512,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 145986,
+		"fechaDeCreacion": "1996-03-28T10:07:39.611Z",
+		"state": "retired "
+	},
+	{
+		"id": 513,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 119398,
+		"fechaDeCreacion": "1995-06-19T14:10:12.166Z",
+		"state": "retired "
+	},
+	{
+		"id": 514,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 143884,
+		"fechaDeCreacion": "1998-10-13T16:31:45.071Z",
+		"state": "retired "
+	},
+	{
+		"id": 515,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 14460,
+		"fechaDeCreacion": "1982-07-19T19:38:22.636Z",
+		"state": "retired "
+	},
+	{
+		"id": 516,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 68894,
+		"fechaDeCreacion": "1987-12-28T21:36:46.177Z",
+		"state": "retired "
+	},
+	{
+		"id": 517,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 23905,
+		"fechaDeCreacion": "1983-03-15T04:19:18.352Z",
+		"state": "retired "
+	},
+	{
+		"id": 518,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 58233,
+		"fechaDeCreacion": "1984-07-05T03:24:30.304Z",
+		"state": "retired "
+	},
+	{
+		"id": 519,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 199980,
+		"fechaDeCreacion": "1983-03-16T14:28:23.348Z",
+		"state": "retired "
+	},
+	{
+		"id": 520,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 2511,
+		"fechaDeCreacion": "2000-01-11T20:26:33.414Z",
+		"state": "retired "
+	},
+	{
+		"id": 521,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 184792,
+		"fechaDeCreacion": "2003-04-30T10:45:05.237Z",
+		"state": "retired "
+	},
+	{
+		"id": 522,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 135933,
+		"fechaDeCreacion": "1989-02-07T09:48:34.394Z",
+		"state": "retired "
+	},
+	{
+		"id": 523,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 48394,
+		"fechaDeCreacion": "2000-01-28T17:40:59.688Z",
+		"state": "retired "
+	},
+	{
+		"id": 524,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 47546,
+		"fechaDeCreacion": "1995-07-31T16:25:28.248Z",
+		"state": "retired "
+	},
+	{
+		"id": 525,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 75686,
+		"fechaDeCreacion": "1980-10-30T07:02:03.507Z",
+		"state": "retired "
+	},
+	{
+		"id": 526,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 13206,
+		"fechaDeCreacion": "1994-02-05T02:43:35.014Z",
+		"state": "retired "
+	},
+	{
+		"id": 527,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 42005,
+		"fechaDeCreacion": "1988-08-11T22:46:23.955Z",
+		"state": "retired "
+	},
+	{
+		"id": 528,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 107435,
+		"fechaDeCreacion": "1993-05-13T11:42:59.637Z",
+		"state": "retired "
+	},
+	{
+		"id": 529,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 13112,
+		"fechaDeCreacion": "1991-10-30T23:45:03.821Z",
+		"state": "retired "
+	},
+	{
+		"id": 530,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 175886,
+		"fechaDeCreacion": "1996-02-23T17:18:49.561Z",
+		"state": "retired "
+	},
+	{
+		"id": 531,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 107087,
+		"fechaDeCreacion": "1993-05-26T06:13:39.957Z",
+		"state": "retired "
+	},
+	{
+		"id": 532,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 127369,
+		"fechaDeCreacion": "1999-09-22T05:21:21.472Z",
+		"state": "retired "
+	},
+	{
+		"id": 533,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 10764,
+		"fechaDeCreacion": "1995-04-29T11:57:23.566Z",
+		"state": "retired "
+	},
+	{
+		"id": 534,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 25758,
+		"fechaDeCreacion": "1996-11-08T05:04:35.298Z",
+		"state": "retired "
+	},
+	{
+		"id": 535,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 22388,
+		"fechaDeCreacion": "1980-04-04T00:56:33.627Z",
+		"state": "retired "
+	},
+	{
+		"id": 536,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 181235,
+		"fechaDeCreacion": "1981-06-04T18:54:49.961Z",
+		"state": "retired "
+	},
+	{
+		"id": 537,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 53568,
+		"fechaDeCreacion": "1982-09-21T06:38:42.867Z",
+		"state": "retired "
+	},
+	{
+		"id": 538,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 100137,
+		"fechaDeCreacion": "1999-10-21T08:57:56.806Z",
+		"state": "retired "
+	},
+	{
+		"id": 539,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 98599,
+		"fechaDeCreacion": "1980-07-06T18:48:31.150Z",
+		"state": "retired "
+	},
+	{
+		"id": 540,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 28204,
+		"fechaDeCreacion": "1985-11-18T08:29:47.815Z",
+		"state": "retired "
+	},
+	{
+		"id": 541,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 158883,
+		"fechaDeCreacion": "1980-11-13T02:33:52.885Z",
+		"state": "retired "
+	},
+	{
+		"id": 542,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 84769,
+		"fechaDeCreacion": "2002-03-13T15:52:33.675Z",
+		"state": "retired "
+	},
+	{
+		"id": 543,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 188175,
+		"fechaDeCreacion": "1991-01-02T13:20:48.355Z",
+		"state": "retired "
+	},
+	{
+		"id": 544,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 43792,
+		"fechaDeCreacion": "1996-05-04T09:51:36.807Z",
+		"state": "retired "
+	},
+	{
+		"id": 545,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 49069,
+		"fechaDeCreacion": "1990-01-14T20:23:25.164Z",
+		"state": "retired "
+	},
+	{
+		"id": 546,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 152340,
+		"fechaDeCreacion": "1983-04-10T18:27:48.317Z",
+		"state": "retired "
+	},
+	{
+		"id": 547,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 68603,
+		"fechaDeCreacion": "1991-01-04T04:25:39.511Z",
+		"state": "retired "
+	},
+	{
+		"id": 548,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 31929,
+		"fechaDeCreacion": "1991-11-29T13:54:56.235Z",
+		"state": "retired "
+	},
+	{
+		"id": 549,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 147712,
+		"fechaDeCreacion": "1994-07-24T07:41:16.391Z",
+		"state": "retired "
+	},
+	{
+		"id": 550,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 143551,
+		"fechaDeCreacion": "1995-12-29T14:43:49.654Z",
+		"state": "retired "
+	},
+	{
+		"id": 551,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 145310,
+		"fechaDeCreacion": "1995-07-22T07:18:22.806Z",
+		"state": "retired "
+	},
+	{
+		"id": 552,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 140232,
+		"fechaDeCreacion": "1993-03-14T01:50:22.949Z",
+		"state": "retired "
+	},
+	{
+		"id": 553,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 17075,
+		"fechaDeCreacion": "2001-08-03T23:33:55.856Z",
+		"state": "retired "
+	},
+	{
+		"id": 554,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 21982,
+		"fechaDeCreacion": "1996-11-03T05:13:12.935Z",
+		"state": "retired "
+	},
+	{
+		"id": 555,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 16311,
+		"fechaDeCreacion": "1998-12-11T05:09:04.302Z",
+		"state": "retired "
+	},
+	{
+		"id": 556,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 23565,
+		"fechaDeCreacion": "1995-02-08T02:13:28.260Z",
+		"state": "retired "
+	},
+	{
+		"id": 557,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 104660,
+		"fechaDeCreacion": "1998-07-09T12:42:20.774Z",
+		"state": "retired "
+	},
+	{
+		"id": 558,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 12309,
+		"fechaDeCreacion": "1981-04-23T18:51:36.741Z",
+		"state": "retired "
+	},
+	{
+		"id": 559,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 79223,
+		"fechaDeCreacion": "1995-02-10T11:27:39.811Z",
+		"state": "retired "
+	},
+	{
+		"id": 560,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 5796,
+		"fechaDeCreacion": "1994-02-09T17:22:20.704Z",
+		"state": "retired "
+	},
+	{
+		"id": 561,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 90388,
+		"fechaDeCreacion": "1990-08-31T00:51:10.236Z",
+		"state": "retired "
+	},
+	{
+		"id": 562,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 120818,
+		"fechaDeCreacion": "2002-03-11T23:57:15.611Z",
+		"state": "retired "
+	},
+	{
+		"id": 563,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 124408,
+		"fechaDeCreacion": "1986-12-18T16:02:32.077Z",
+		"state": "retired "
+	},
+	{
+		"id": 564,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 76091,
+		"fechaDeCreacion": "2003-06-04T09:47:11.320Z",
+		"state": "retired "
+	},
+	{
+		"id": 565,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 125659,
+		"fechaDeCreacion": "2001-12-10T20:48:46.625Z",
+		"state": "retired "
+	},
+	{
+		"id": 566,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 25301,
+		"fechaDeCreacion": "1980-02-23T16:25:33.129Z",
+		"state": "retired "
+	},
+	{
+		"id": 567,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 25720,
+		"fechaDeCreacion": "1986-09-03T20:01:07.190Z",
+		"state": "retired "
+	},
+	{
+		"id": 568,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 30115,
+		"fechaDeCreacion": "1986-12-25T21:03:56.570Z",
+		"state": "retired "
+	},
+	{
+		"id": 569,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 181837,
+		"fechaDeCreacion": "1981-06-22T00:32:18.374Z",
+		"state": "retired "
+	},
+	{
+		"id": 570,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 44010,
+		"fechaDeCreacion": "1986-05-09T18:07:03.277Z",
+		"state": "retired "
+	},
+	{
+		"id": 571,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 55557,
+		"fechaDeCreacion": "1998-02-06T16:55:57.822Z",
+		"state": "retired "
+	},
+	{
+		"id": 572,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 143881,
+		"fechaDeCreacion": "2000-11-09T16:06:42.794Z",
+		"state": "retired "
+	},
+	{
+		"id": 573,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 116463,
+		"fechaDeCreacion": "2001-05-21T21:43:56.217Z",
+		"state": "retired "
+	},
+	{
+		"id": 574,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 96128,
+		"fechaDeCreacion": "1992-02-19T02:18:16.060Z",
+		"state": "retired "
+	},
+	{
+		"id": 575,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 30789,
+		"fechaDeCreacion": "1992-01-10T02:19:56.808Z",
+		"state": "retired "
+	},
+	{
+		"id": 576,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 214,
+		"fechaDeCreacion": "1990-05-20T02:12:39.445Z",
+		"state": "retired "
+	},
+	{
+		"id": 577,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 48665,
+		"fechaDeCreacion": "1995-10-05T13:56:04.990Z",
+		"state": "retired "
+	},
+	{
+		"id": 578,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 173522,
+		"fechaDeCreacion": "1997-08-08T02:37:30.825Z",
+		"state": "retired "
+	},
+	{
+		"id": 579,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 74453,
+		"fechaDeCreacion": "1986-08-27T01:14:26.616Z",
+		"state": "retired "
+	},
+	{
+		"id": 580,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 142845,
+		"fechaDeCreacion": "1998-02-06T11:03:28.970Z",
+		"state": "retired "
+	},
+	{
+		"id": 581,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 94751,
+		"fechaDeCreacion": "1984-05-15T01:54:14.077Z",
+		"state": "retired "
+	},
+	{
+		"id": 582,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 17111,
+		"fechaDeCreacion": "2002-03-26T19:03:00.048Z",
+		"state": "retired "
+	},
+	{
+		"id": 583,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 4404,
+		"fechaDeCreacion": "1995-03-23T08:54:46.544Z",
+		"state": "retired "
+	},
+	{
+		"id": 584,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 68014,
+		"fechaDeCreacion": "1980-05-06T02:19:52.309Z",
+		"state": "retired "
+	},
+	{
+		"id": 585,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 131781,
+		"fechaDeCreacion": "1995-04-09T00:58:11.444Z",
+		"state": "retired "
+	},
+	{
+		"id": 586,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 136581,
+		"fechaDeCreacion": "1997-10-17T02:13:54.834Z",
+		"state": "retired "
+	},
+	{
+		"id": 587,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 75726,
+		"fechaDeCreacion": "1985-09-06T22:11:39.385Z",
+		"state": "retired "
+	},
+	{
+		"id": 588,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 23877,
+		"fechaDeCreacion": "1980-04-11T22:33:20.690Z",
+		"state": "retired "
+	},
+	{
+		"id": 589,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 23037,
+		"fechaDeCreacion": "1988-07-27T13:10:46.921Z",
+		"state": "retired "
+	},
+	{
+		"id": 590,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 150367,
+		"fechaDeCreacion": "1984-02-10T18:49:21.114Z",
+		"state": "retired "
+	},
+	{
+		"id": 591,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 5917,
+		"fechaDeCreacion": "1995-11-05T02:01:51.638Z",
+		"state": "retired "
+	},
+	{
+		"id": 592,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 43574,
+		"fechaDeCreacion": "1993-07-18T00:15:11.438Z",
+		"state": "retired "
+	},
+	{
+		"id": 593,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 168807,
+		"fechaDeCreacion": "1985-11-03T09:53:52.822Z",
+		"state": "retired "
+	},
+	{
+		"id": 594,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 135391,
+		"fechaDeCreacion": "1982-01-22T22:12:19.946Z",
+		"state": "retired "
+	},
+	{
+		"id": 595,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 119965,
+		"fechaDeCreacion": "1991-09-27T23:25:34.312Z",
+		"state": "retired "
+	},
+	{
+		"id": 596,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 64424,
+		"fechaDeCreacion": "1982-07-16T15:26:43.446Z",
+		"state": "retired "
+	},
+	{
+		"id": 597,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 107793,
+		"fechaDeCreacion": "1980-09-28T23:03:41.753Z",
+		"state": "retired "
+	},
+	{
+		"id": 598,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 108310,
+		"fechaDeCreacion": "1989-10-06T13:42:02.742Z",
+		"state": "retired "
+	},
+	{
+		"id": 599,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 64948,
+		"fechaDeCreacion": "2001-12-09T08:50:12.719Z",
+		"state": "retired "
+	},
+	{
+		"id": 600,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 51171,
+		"fechaDeCreacion": "1996-10-07T18:30:36.773Z",
+		"state": "retired "
+	},
+	{
+		"id": 601,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 17628,
+		"fechaDeCreacion": "1987-06-30T12:08:33.909Z",
+		"state": "retired "
+	},
+	{
+		"id": 602,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 69271,
+		"fechaDeCreacion": "1985-09-03T04:04:38.027Z",
+		"state": "retired "
+	},
+	{
+		"id": 603,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 152048,
+		"fechaDeCreacion": "1994-10-20T08:14:21.911Z",
+		"state": "retired "
+	},
+	{
+		"id": 604,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 123563,
+		"fechaDeCreacion": "1997-07-05T03:45:41.148Z",
+		"state": "retired "
+	},
+	{
+		"id": 605,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 94087,
+		"fechaDeCreacion": "1990-05-10T03:29:20.702Z",
+		"state": "retired "
+	},
+	{
+		"id": 606,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 95665,
+		"fechaDeCreacion": "1997-06-23T08:14:55.258Z",
+		"state": "retired "
+	},
+	{
+		"id": 607,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 169034,
+		"fechaDeCreacion": "1989-09-27T10:19:54.012Z",
+		"state": "retired "
+	},
+	{
+		"id": 608,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 167724,
+		"fechaDeCreacion": "1986-08-15T17:06:17.527Z",
+		"state": "retired "
+	},
+	{
+		"id": 609,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 163688,
+		"fechaDeCreacion": "1991-08-19T04:44:02.240Z",
+		"state": "retired "
+	},
+	{
+		"id": 610,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 50463,
+		"fechaDeCreacion": "2003-01-24T21:21:06.556Z",
+		"state": "retired "
+	},
+	{
+		"id": 611,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 127688,
+		"fechaDeCreacion": "1993-11-16T06:46:07.998Z",
+		"state": "retired "
+	},
+	{
+		"id": 612,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 62415,
+		"fechaDeCreacion": "1993-11-30T21:01:31.448Z",
+		"state": "retired "
+	},
+	{
+		"id": 613,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 105598,
+		"fechaDeCreacion": "1985-04-11T18:13:37.545Z",
+		"state": "retired "
+	},
+	{
+		"id": 614,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 179837,
+		"fechaDeCreacion": "1998-10-12T05:09:24.049Z",
+		"state": "retired "
+	},
+	{
+		"id": 615,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 113470,
+		"fechaDeCreacion": "1992-11-21T05:24:37.841Z",
+		"state": "retired "
+	},
+	{
+		"id": 616,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 79383,
+		"fechaDeCreacion": "2003-02-20T23:01:36.205Z",
+		"state": "retired "
+	},
+	{
+		"id": 617,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 38289,
+		"fechaDeCreacion": "1995-12-04T09:48:43.360Z",
+		"state": "retired "
+	},
+	{
+		"id": 618,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 63951,
+		"fechaDeCreacion": "2003-12-03T18:14:35.343Z",
+		"state": "retired "
+	},
+	{
+		"id": 619,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 111838,
+		"fechaDeCreacion": "1998-07-22T05:02:54.088Z",
+		"state": "retired "
+	},
+	{
+		"id": 620,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 28592,
+		"fechaDeCreacion": "2001-07-22T23:54:14.166Z",
+		"state": "retired "
+	},
+	{
+		"id": 621,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 56682,
+		"fechaDeCreacion": "1994-03-30T14:32:38.080Z",
+		"state": "retired "
+	},
+	{
+		"id": 622,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 132534,
+		"fechaDeCreacion": "1997-11-10T00:14:31.195Z",
+		"state": "retired "
+	},
+	{
+		"id": 623,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 5311,
+		"fechaDeCreacion": "2003-12-12T03:09:15.825Z",
+		"state": "retired "
+	},
+	{
+		"id": 624,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 23981,
+		"fechaDeCreacion": "1998-12-04T21:25:46.992Z",
+		"state": "retired "
+	},
+	{
+		"id": 625,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 58650,
+		"fechaDeCreacion": "2003-10-18T18:34:08.231Z",
+		"state": "retired "
+	},
+	{
+		"id": 626,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 22506,
+		"fechaDeCreacion": "1998-08-11T22:08:58.432Z",
+		"state": "retired "
+	},
+	{
+		"id": 627,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 33330,
+		"fechaDeCreacion": "1998-12-09T10:22:12.637Z",
+		"state": "retired "
+	},
+	{
+		"id": 628,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 88874,
+		"fechaDeCreacion": "1988-05-10T07:14:00.905Z",
+		"state": "retired "
+	},
+	{
+		"id": 629,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 78967,
+		"fechaDeCreacion": "1991-08-12T19:10:45.866Z",
+		"state": "retired "
+	},
+	{
+		"id": 630,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 182421,
+		"fechaDeCreacion": "1981-11-07T21:55:37.920Z",
+		"state": "retired "
+	},
+	{
+		"id": 631,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 96070,
+		"fechaDeCreacion": "1989-04-13T03:06:41.872Z",
+		"state": "retired "
+	},
+	{
+		"id": 632,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 152237,
+		"fechaDeCreacion": "1982-01-30T05:12:30.588Z",
+		"state": "retired "
+	},
+	{
+		"id": 633,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 99112,
+		"fechaDeCreacion": "1992-02-23T11:54:52.929Z",
+		"state": "retired "
+	},
+	{
+		"id": 634,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 32091,
+		"fechaDeCreacion": "2002-09-27T21:31:01.618Z",
+		"state": "retired "
+	},
+	{
+		"id": 635,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 60485,
+		"fechaDeCreacion": "1987-04-19T23:49:34.747Z",
+		"state": "retired "
+	},
+	{
+		"id": 636,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 178601,
+		"fechaDeCreacion": "1995-05-23T18:36:11.814Z",
+		"state": "retired "
+	},
+	{
+		"id": 637,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 137030,
+		"fechaDeCreacion": "1987-11-08T16:45:29.847Z",
+		"state": "retired "
+	},
+	{
+		"id": 638,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 55895,
+		"fechaDeCreacion": "1986-01-28T11:33:59.987Z",
+		"state": "retired "
+	},
+	{
+		"id": 639,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 101662,
+		"fechaDeCreacion": "1991-03-25T16:03:53.809Z",
+		"state": "retired "
+	},
+	{
+		"id": 640,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 141546,
+		"fechaDeCreacion": "1984-11-03T12:38:44.769Z",
+		"state": "retired "
+	},
+	{
+		"id": 641,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 28376,
+		"fechaDeCreacion": "1989-01-18T00:16:23.225Z",
+		"state": "retired "
+	},
+	{
+		"id": 642,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 156369,
+		"fechaDeCreacion": "1984-08-16T16:58:50.167Z",
+		"state": "retired "
+	},
+	{
+		"id": 643,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 131155,
+		"fechaDeCreacion": "1989-03-24T00:27:09.095Z",
+		"state": "retired "
+	},
+	{
+		"id": 644,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 115702,
+		"fechaDeCreacion": "1980-04-28T22:33:03.195Z",
+		"state": "retired "
+	},
+	{
+		"id": 645,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 119466,
+		"fechaDeCreacion": "1999-01-06T07:27:49.831Z",
+		"state": "retired "
+	},
+	{
+		"id": 646,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 169410,
+		"fechaDeCreacion": "1984-10-09T10:16:56.289Z",
+		"state": "retired "
+	},
+	{
+		"id": 647,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 3464,
+		"fechaDeCreacion": "1993-03-20T19:04:40.655Z",
+		"state": "retired "
+	},
+	{
+		"id": 648,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 160431,
+		"fechaDeCreacion": "1991-03-01T15:03:04.343Z",
+		"state": "retired "
+	},
+	{
+		"id": 649,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 89625,
+		"fechaDeCreacion": "1992-03-25T06:48:38.996Z",
+		"state": "retired "
+	},
+	{
+		"id": 650,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 148711,
+		"fechaDeCreacion": "1994-07-05T18:10:20.275Z",
+		"state": "retired "
+	},
+	{
+		"id": 651,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 133457,
+		"fechaDeCreacion": "1985-12-01T08:13:15.843Z",
+		"state": "retired "
+	},
+	{
+		"id": 652,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 48281,
+		"fechaDeCreacion": "1994-07-16T15:26:07.296Z",
+		"state": "retired "
+	},
+	{
+		"id": 653,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 46185,
+		"fechaDeCreacion": "1995-05-08T07:33:22.718Z",
+		"state": "retired "
+	},
+	{
+		"id": 654,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 142967,
+		"fechaDeCreacion": "1997-12-02T15:09:06.364Z",
+		"state": "retired "
+	},
+	{
+		"id": 655,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 196954,
+		"fechaDeCreacion": "2002-12-13T21:24:16.174Z",
+		"state": "retired "
+	},
+	{
+		"id": 656,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 52867,
+		"fechaDeCreacion": "1984-04-01T08:04:56.293Z",
+		"state": "retired "
+	},
+	{
+		"id": 657,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 72161,
+		"fechaDeCreacion": "2001-08-01T18:06:51.120Z",
+		"state": "retired "
+	},
+	{
+		"id": 658,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 67046,
+		"fechaDeCreacion": "1999-05-23T15:22:42.408Z",
+		"state": "retired "
+	},
+	{
+		"id": 659,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 180615,
+		"fechaDeCreacion": "1982-12-18T21:09:31.276Z",
+		"state": "retired "
+	},
+	{
+		"id": 660,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 141228,
+		"fechaDeCreacion": "2003-01-02T06:27:42.629Z",
+		"state": "retired "
+	},
+	{
+		"id": 661,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 118248,
+		"fechaDeCreacion": "1996-06-20T23:17:59.592Z",
+		"state": "retired "
+	},
+	{
+		"id": 662,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 191226,
+		"fechaDeCreacion": "1995-10-18T15:20:48.524Z",
+		"state": "retired "
+	},
+	{
+		"id": 663,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 179546,
+		"fechaDeCreacion": "1996-05-23T02:17:39.722Z",
+		"state": "retired "
+	},
+	{
+		"id": 664,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 136599,
+		"fechaDeCreacion": "1983-11-14T01:11:04.389Z",
+		"state": "retired "
+	},
+	{
+		"id": 665,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 123649,
+		"fechaDeCreacion": "1995-01-12T05:21:23.388Z",
+		"state": "retired "
+	},
+	{
+		"id": 666,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 199448,
+		"fechaDeCreacion": "1989-06-22T10:41:01.178Z",
+		"state": "retired "
+	},
+	{
+		"id": 667,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 85091,
+		"fechaDeCreacion": "2000-10-09T23:34:24.412Z",
+		"state": "retired "
+	},
+	{
+		"id": 668,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 81361,
+		"fechaDeCreacion": "1993-11-12T14:08:34.309Z",
+		"state": "retired "
+	},
+	{
+		"id": 669,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 138420,
+		"fechaDeCreacion": "1989-12-14T22:27:44.771Z",
+		"state": "retired "
+	},
+	{
+		"id": 670,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 197112,
+		"fechaDeCreacion": "2003-11-11T10:11:00.874Z",
+		"state": "retired "
+	},
+	{
+		"id": 671,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 192068,
+		"fechaDeCreacion": "1995-08-04T17:42:34.059Z",
+		"state": "retired "
+	},
+	{
+		"id": 672,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 143436,
+		"fechaDeCreacion": "1998-11-11T06:41:29.281Z",
+		"state": "retired "
+	},
+	{
+		"id": 673,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 35956,
+		"fechaDeCreacion": "1992-11-18T03:27:03.366Z",
+		"state": "retired "
+	},
+	{
+		"id": 674,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 154913,
+		"fechaDeCreacion": "1983-04-18T14:46:49.375Z",
+		"state": "retired "
+	},
+	{
+		"id": 675,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 61045,
+		"fechaDeCreacion": "1987-12-19T06:30:36.701Z",
+		"state": "retired "
+	},
+	{
+		"id": 676,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 109696,
+		"fechaDeCreacion": "1982-01-30T07:33:04.489Z",
+		"state": "retired "
+	},
+	{
+		"id": 677,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 11152,
+		"fechaDeCreacion": "1983-03-19T18:33:16.952Z",
+		"state": "retired "
+	},
+	{
+		"id": 678,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 129910,
+		"fechaDeCreacion": "1981-06-03T20:15:02.238Z",
+		"state": "retired "
+	},
+	{
+		"id": 679,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 136213,
+		"fechaDeCreacion": "1984-05-15T17:16:39.137Z",
+		"state": "retired "
+	},
+	{
+		"id": 680,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 32434,
+		"fechaDeCreacion": "1985-11-19T01:25:20.090Z",
+		"state": "retired "
+	},
+	{
+		"id": 681,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 91521,
+		"fechaDeCreacion": "1983-12-13T21:51:48.326Z",
+		"state": "retired "
+	},
+	{
+		"id": 682,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 145191,
+		"fechaDeCreacion": "2000-11-30T23:32:56.220Z",
+		"state": "retired "
+	},
+	{
+		"id": 683,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 138998,
+		"fechaDeCreacion": "1997-03-26T22:11:59.702Z",
+		"state": "retired "
+	},
+	{
+		"id": 684,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 174677,
+		"fechaDeCreacion": "2001-08-01T16:39:26.890Z",
+		"state": "retired "
+	},
+	{
+		"id": 685,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 50281,
+		"fechaDeCreacion": "2003-11-23T06:55:12.840Z",
+		"state": "retired "
+	},
+	{
+		"id": 686,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 87364,
+		"fechaDeCreacion": "1995-11-18T20:21:40.113Z",
+		"state": "retired "
+	},
+	{
+		"id": 687,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 39023,
+		"fechaDeCreacion": "1987-03-28T06:38:04.518Z",
+		"state": "retired "
+	},
+	{
+		"id": 688,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 97337,
+		"fechaDeCreacion": "1996-11-22T00:25:47.201Z",
+		"state": "retired "
+	},
+	{
+		"id": 689,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 178171,
+		"fechaDeCreacion": "2002-04-06T22:17:13.013Z",
+		"state": "retired "
+	},
+	{
+		"id": 690,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 192268,
+		"fechaDeCreacion": "1990-04-14T18:10:57.884Z",
+		"state": "retired "
+	},
+	{
+		"id": 691,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 142921,
+		"fechaDeCreacion": "2002-05-23T00:32:59.967Z",
+		"state": "retired "
+	},
+	{
+		"id": 692,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 103902,
+		"fechaDeCreacion": "1984-08-12T05:39:04.582Z",
+		"state": "retired "
+	},
+	{
+		"id": 693,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 127432,
+		"fechaDeCreacion": "1983-03-27T09:39:23.953Z",
+		"state": "retired "
+	},
+	{
+		"id": 694,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 173669,
+		"fechaDeCreacion": "1992-02-14T17:51:29.426Z",
+		"state": "retired "
+	},
+	{
+		"id": 695,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 59399,
+		"fechaDeCreacion": "1990-07-23T17:01:09.712Z",
+		"state": "retired "
+	},
+	{
+		"id": 696,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 23597,
+		"fechaDeCreacion": "1983-07-23T05:38:51.786Z",
+		"state": "retired "
+	},
+	{
+		"id": 697,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 52354,
+		"fechaDeCreacion": "1993-10-13T17:54:12.334Z",
+		"state": "retired "
+	},
+	{
+		"id": 698,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 36016,
+		"fechaDeCreacion": "1992-07-24T13:18:14.791Z",
+		"state": "retired "
+	},
+	{
+		"id": 699,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 148202,
+		"fechaDeCreacion": "1992-01-26T04:36:06.596Z",
+		"state": "retired "
+	},
+	{
+		"id": 700,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 94950,
+		"fechaDeCreacion": "1986-02-28T13:21:39.923Z",
+		"state": "retired "
+	},
+	{
+		"id": 701,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 81704,
+		"fechaDeCreacion": "1990-03-03T01:59:00.456Z",
+		"state": "retired "
+	},
+	{
+		"id": 702,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 154436,
+		"fechaDeCreacion": "1984-08-31T12:50:22.185Z",
+		"state": "retired "
+	},
+	{
+		"id": 703,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 181282,
+		"fechaDeCreacion": "1981-10-29T04:29:53.794Z",
+		"state": "retired "
+	},
+	{
+		"id": 704,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 92885,
+		"fechaDeCreacion": "1997-07-12T14:05:59.612Z",
+		"state": "retired "
+	},
+	{
+		"id": 705,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 130712,
+		"fechaDeCreacion": "1984-09-26T23:59:14.314Z",
+		"state": "retired "
+	},
+	{
+		"id": 706,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 10160,
+		"fechaDeCreacion": "2001-01-16T10:23:16.397Z",
+		"state": "retired "
+	},
+	{
+		"id": 707,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 52240,
+		"fechaDeCreacion": "1985-04-30T02:03:30.779Z",
+		"state": "retired "
+	},
+	{
+		"id": 708,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 169532,
+		"fechaDeCreacion": "1998-08-07T01:12:27.878Z",
+		"state": "retired "
+	},
+	{
+		"id": 709,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 186517,
+		"fechaDeCreacion": "1988-04-22T05:39:51.917Z",
+		"state": "retired "
+	},
+	{
+		"id": 710,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 154677,
+		"fechaDeCreacion": "1998-03-09T04:46:38.601Z",
+		"state": "retired "
+	},
+	{
+		"id": 711,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 157898,
+		"fechaDeCreacion": "1987-01-10T07:39:21.631Z",
+		"state": "retired "
+	},
+	{
+		"id": 712,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 163546,
+		"fechaDeCreacion": "1992-04-11T08:37:39.125Z",
+		"state": "retired "
+	},
+	{
+		"id": 713,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 150365,
+		"fechaDeCreacion": "1999-09-12T11:15:56.202Z",
+		"state": "retired "
+	},
+	{
+		"id": 714,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 121602,
+		"fechaDeCreacion": "1999-07-11T21:38:37.998Z",
+		"state": "retired "
+	},
+	{
+		"id": 715,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 158188,
+		"fechaDeCreacion": "1999-05-09T21:45:46.937Z",
+		"state": "retired "
+	},
+	{
+		"id": 716,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 174899,
+		"fechaDeCreacion": "1983-12-17T05:15:08.002Z",
+		"state": "retired "
+	},
+	{
+		"id": 717,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 70104,
+		"fechaDeCreacion": "1985-04-19T12:23:49.717Z",
+		"state": "retired "
+	},
+	{
+		"id": 718,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 159453,
+		"fechaDeCreacion": "1990-06-09T15:57:27.900Z",
+		"state": "retired "
+	},
+	{
+		"id": 719,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 23540,
+		"fechaDeCreacion": "1990-04-02T10:32:58.853Z",
+		"state": "retired "
+	},
+	{
+		"id": 720,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 89175,
+		"fechaDeCreacion": "1990-08-26T01:45:51.854Z",
+		"state": "retired "
+	},
+	{
+		"id": 721,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 120116,
+		"fechaDeCreacion": "2001-07-20T23:59:43.390Z",
+		"state": "retired "
+	},
+	{
+		"id": 722,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 34304,
+		"fechaDeCreacion": "1986-02-16T19:05:02.432Z",
+		"state": "retired "
+	},
+	{
+		"id": 723,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 95748,
+		"fechaDeCreacion": "2001-11-13T03:51:59.941Z",
+		"state": "retired "
+	},
+	{
+		"id": 724,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 117136,
+		"fechaDeCreacion": "1980-03-13T22:24:56.354Z",
+		"state": "retired "
+	},
+	{
+		"id": 725,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 29556,
+		"fechaDeCreacion": "1984-03-06T21:16:04.262Z",
+		"state": "retired "
+	},
+	{
+		"id": 726,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 123813,
+		"fechaDeCreacion": "1992-12-13T09:49:12.904Z",
+		"state": "retired "
+	},
+	{
+		"id": 727,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 184822,
+		"fechaDeCreacion": "1981-08-26T03:03:21.570Z",
+		"state": "retired "
+	},
+	{
+		"id": 728,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 35941,
+		"fechaDeCreacion": "2000-05-31T22:29:50.759Z",
+		"state": "retired "
+	},
+	{
+		"id": 729,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 193332,
+		"fechaDeCreacion": "1987-07-06T04:14:34.046Z",
+		"state": "retired "
+	},
+	{
+		"id": 730,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 25991,
+		"fechaDeCreacion": "1988-11-03T17:06:30.274Z",
+		"state": "retired "
+	},
+	{
+		"id": 731,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 160193,
+		"fechaDeCreacion": "1996-08-13T06:44:09.058Z",
+		"state": "retired "
+	},
+	{
+		"id": 732,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 46406,
+		"fechaDeCreacion": "1980-10-12T05:17:38.909Z",
+		"state": "retired "
+	},
+	{
+		"id": 733,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 165427,
+		"fechaDeCreacion": "1984-12-04T09:55:15.759Z",
+		"state": "retired "
+	},
+	{
+		"id": 734,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 3140,
+		"fechaDeCreacion": "1988-02-23T04:44:50.886Z",
+		"state": "retired "
+	},
+	{
+		"id": 735,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 73938,
+		"fechaDeCreacion": "1992-01-14T07:32:03.617Z",
+		"state": "retired "
+	},
+	{
+		"id": 736,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 176213,
+		"fechaDeCreacion": "1988-05-23T16:32:29.331Z",
+		"state": "retired "
+	},
+	{
+		"id": 737,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 35459,
+		"fechaDeCreacion": "1992-12-19T18:31:37.330Z",
+		"state": "retired "
+	},
+	{
+		"id": 738,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 57026,
+		"fechaDeCreacion": "1986-08-21T11:52:09.425Z",
+		"state": "retired "
+	},
+	{
+		"id": 739,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 39867,
+		"fechaDeCreacion": "1984-02-05T05:40:42.855Z",
+		"state": "retired "
+	},
+	{
+		"id": 740,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 66700,
+		"fechaDeCreacion": "1994-02-11T22:43:46.158Z",
+		"state": "retired "
+	},
+	{
+		"id": 741,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 175597,
+		"fechaDeCreacion": "1998-07-08T01:07:10.902Z",
+		"state": "retired "
+	},
+	{
+		"id": 742,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 142128,
+		"fechaDeCreacion": "1988-04-01T12:21:22.353Z",
+		"state": "retired "
+	},
+	{
+		"id": 743,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 191051,
+		"fechaDeCreacion": "1981-03-28T16:31:25.157Z",
+		"state": "retired "
+	},
+	{
+		"id": 744,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 124201,
+		"fechaDeCreacion": "2002-03-26T16:13:39.408Z",
+		"state": "retired "
+	},
+	{
+		"id": 745,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 124216,
+		"fechaDeCreacion": "1989-03-02T21:24:11.842Z",
+		"state": "retired "
+	},
+	{
+		"id": 746,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 170315,
+		"fechaDeCreacion": "1997-07-18T10:55:17.337Z",
+		"state": "retired "
+	},
+	{
+		"id": 747,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 52311,
+		"fechaDeCreacion": "1989-11-16T16:33:08.516Z",
+		"state": "retired "
+	},
+	{
+		"id": 748,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 55333,
+		"fechaDeCreacion": "1981-06-07T15:27:55.946Z",
+		"state": "retired "
+	},
+	{
+		"id": 749,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 43778,
+		"fechaDeCreacion": "1987-08-03T07:33:28.063Z",
+		"state": "retired "
+	},
+	{
+		"id": 750,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 86926,
+		"fechaDeCreacion": "1993-07-11T03:33:51.331Z",
+		"state": "retired "
+	},
+	{
+		"id": 751,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 191627,
+		"fechaDeCreacion": "1996-07-15T20:15:42.858Z",
+		"state": "retired "
+	},
+	{
+		"id": 752,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 65958,
+		"fechaDeCreacion": "1990-11-13T16:55:53.782Z",
+		"state": "retired "
+	},
+	{
+		"id": 753,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 84349,
+		"fechaDeCreacion": "2002-06-18T16:16:48.874Z",
+		"state": "retired "
+	},
+	{
+		"id": 754,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 110638,
+		"fechaDeCreacion": "1981-09-02T23:34:11.874Z",
+		"state": "retired "
+	},
+	{
+		"id": 755,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 19310,
+		"fechaDeCreacion": "1994-12-27T08:27:32.655Z",
+		"state": "retired "
+	},
+	{
+		"id": 756,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 48084,
+		"fechaDeCreacion": "1985-02-18T05:29:04.002Z",
+		"state": "retired "
+	},
+	{
+		"id": 757,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 167526,
+		"fechaDeCreacion": "1981-01-27T22:08:21.863Z",
+		"state": "retired "
+	},
+	{
+		"id": 758,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 133236,
+		"fechaDeCreacion": "1985-08-23T09:45:32.324Z",
+		"state": "retired "
+	},
+	{
+		"id": 759,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 159896,
+		"fechaDeCreacion": "2003-04-24T13:05:26.071Z",
+		"state": "retired "
+	},
+	{
+		"id": 760,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 100163,
+		"fechaDeCreacion": "1983-03-08T23:28:12.381Z",
+		"state": "retired "
+	},
+	{
+		"id": 761,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 75953,
+		"fechaDeCreacion": "1982-03-08T06:26:15.557Z",
+		"state": "retired "
+	},
+	{
+		"id": 762,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 48522,
+		"fechaDeCreacion": "1982-08-13T18:59:23.801Z",
+		"state": "retired "
+	},
+	{
+		"id": 763,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 98201,
+		"fechaDeCreacion": "2001-09-22T04:13:41.188Z",
+		"state": "retired "
+	},
+	{
+		"id": 764,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 169975,
+		"fechaDeCreacion": "1983-11-30T11:58:53.880Z",
+		"state": "retired "
+	},
+	{
+		"id": 765,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 156684,
+		"fechaDeCreacion": "1996-08-24T07:52:01.088Z",
+		"state": "retired "
+	},
+	{
+		"id": 766,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 35698,
+		"fechaDeCreacion": "2000-06-02T19:07:49.027Z",
+		"state": "retired "
+	},
+	{
+		"id": 767,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 137976,
+		"fechaDeCreacion": "1989-01-20T01:48:13.208Z",
+		"state": "retired "
+	},
+	{
+		"id": 768,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 123372,
+		"fechaDeCreacion": "2000-11-08T21:30:55.323Z",
+		"state": "retired "
+	},
+	{
+		"id": 769,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 91545,
+		"fechaDeCreacion": "1998-09-21T01:23:59.537Z",
+		"state": "retired "
+	},
+	{
+		"id": 770,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 97287,
+		"fechaDeCreacion": "1991-09-12T16:46:29.603Z",
+		"state": "retired "
+	},
+	{
+		"id": 771,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 3254,
+		"fechaDeCreacion": "1982-05-05T23:12:16.482Z",
+		"state": "retired "
+	},
+	{
+		"id": 772,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 163911,
+		"fechaDeCreacion": "1983-04-20T03:10:16.896Z",
+		"state": "retired "
+	},
+	{
+		"id": 773,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 51148,
+		"fechaDeCreacion": "1998-12-19T08:43:15.943Z",
+		"state": "retired "
+	},
+	{
+		"id": 774,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 25535,
+		"fechaDeCreacion": "1991-10-16T03:46:31.580Z",
+		"state": "retired "
+	},
+	{
+		"id": 775,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 157532,
+		"fechaDeCreacion": "1997-10-05T01:42:07.837Z",
+		"state": "retired "
+	},
+	{
+		"id": 776,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 190545,
+		"fechaDeCreacion": "1994-05-19T08:54:04.180Z",
+		"state": "retired "
+	},
+	{
+		"id": 777,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 118819,
+		"fechaDeCreacion": "1987-08-01T04:27:12.923Z",
+		"state": "retired "
+	},
+	{
+		"id": 778,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 114405,
+		"fechaDeCreacion": "1998-12-21T23:35:06.172Z",
+		"state": "retired "
+	},
+	{
+		"id": 779,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 152231,
+		"fechaDeCreacion": "2001-06-29T11:31:20.613Z",
+		"state": "retired "
+	},
+	{
+		"id": 780,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 151044,
+		"fechaDeCreacion": "1994-01-06T08:31:49.315Z",
+		"state": "retired "
+	},
+	{
+		"id": 781,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 162940,
+		"fechaDeCreacion": "1992-01-07T12:27:30.270Z",
+		"state": "retired "
+	},
+	{
+		"id": 782,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 55794,
+		"fechaDeCreacion": "1983-10-19T07:11:46.744Z",
+		"state": "retired "
+	},
+	{
+		"id": 783,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 12538,
+		"fechaDeCreacion": "1996-05-12T15:01:55.531Z",
+		"state": "retired "
+	},
+	{
+		"id": 784,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 136855,
+		"fechaDeCreacion": "1990-10-29T09:05:59.940Z",
+		"state": "retired "
+	},
+	{
+		"id": 785,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 15772,
+		"fechaDeCreacion": "2003-04-19T23:29:54.374Z",
+		"state": "retired "
+	},
+	{
+		"id": 786,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 136276,
+		"fechaDeCreacion": "1980-02-01T23:21:07.269Z",
+		"state": "retired "
+	},
+	{
+		"id": 787,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 5489,
+		"fechaDeCreacion": "1992-04-20T08:29:00.795Z",
+		"state": "retired "
+	},
+	{
+		"id": 788,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 103104,
+		"fechaDeCreacion": "2003-12-24T10:10:26.351Z",
+		"state": "retired "
+	},
+	{
+		"id": 789,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 129131,
+		"fechaDeCreacion": "1991-07-30T18:21:48.060Z",
+		"state": "retired "
+	},
+	{
+		"id": 790,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 180209,
+		"fechaDeCreacion": "1988-04-21T17:12:56.404Z",
+		"state": "retired "
+	},
+	{
+		"id": 791,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 158058,
+		"fechaDeCreacion": "1992-08-10T05:11:41.540Z",
+		"state": "retired "
+	},
+	{
+		"id": 792,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 154082,
+		"fechaDeCreacion": "1984-06-14T17:17:53.819Z",
+		"state": "retired "
+	},
+	{
+		"id": 793,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 7871,
+		"fechaDeCreacion": "1985-12-27T01:03:04.414Z",
+		"state": "retired "
+	},
+	{
+		"id": 794,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 190443,
+		"fechaDeCreacion": "1991-03-28T14:46:36.645Z",
+		"state": "retired "
+	},
+	{
+		"id": 795,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 188682,
+		"fechaDeCreacion": "1992-12-23T07:13:06.185Z",
+		"state": "retired "
+	},
+	{
+		"id": 796,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 130071,
+		"fechaDeCreacion": "1980-06-17T19:52:22.032Z",
+		"state": "retired "
+	},
+	{
+		"id": 797,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 21759,
+		"fechaDeCreacion": "1987-08-26T02:27:13.049Z",
+		"state": "retired "
+	},
+	{
+		"id": 798,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 182225,
+		"fechaDeCreacion": "1982-09-21T16:51:46.538Z",
+		"state": "retired "
+	},
+	{
+		"id": 799,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 85124,
+		"fechaDeCreacion": "1995-05-04T16:30:19.830Z",
+		"state": "retired "
+	},
+	{
+		"id": 800,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 178172,
+		"fechaDeCreacion": "2000-12-06T10:23:16.362Z",
+		"state": "retired "
+	},
+	{
+		"id": 801,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 5383,
+		"fechaDeCreacion": "2003-01-26T13:34:21.892Z",
+		"state": "retired "
+	},
+	{
+		"id": 802,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 40371,
+		"fechaDeCreacion": "1999-11-27T02:28:13.549Z",
+		"state": "retired "
+	},
+	{
+		"id": 803,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 16270,
+		"fechaDeCreacion": "2002-12-26T04:19:53.237Z",
+		"state": "retired "
+	},
+	{
+		"id": 804,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 98000,
+		"fechaDeCreacion": "1981-02-27T01:33:56.359Z",
+		"state": "retired "
+	},
+	{
+		"id": 805,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 42612,
+		"fechaDeCreacion": "1985-06-20T05:13:05.421Z",
+		"state": "retired "
+	},
+	{
+		"id": 806,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 197024,
+		"fechaDeCreacion": "1989-12-09T15:51:10.689Z",
+		"state": "retired "
+	},
+	{
+		"id": 807,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 29053,
+		"fechaDeCreacion": "1988-06-28T07:40:46.204Z",
+		"state": "retired "
+	},
+	{
+		"id": 808,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 56489,
+		"fechaDeCreacion": "2001-08-12T10:56:50.844Z",
+		"state": "retired "
+	},
+	{
+		"id": 809,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 30244,
+		"fechaDeCreacion": "1995-02-11T06:23:28.523Z",
+		"state": "retired "
+	},
+	{
+		"id": 810,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 34381,
+		"fechaDeCreacion": "1997-12-23T10:00:39.793Z",
+		"state": "retired "
+	},
+	{
+		"id": 811,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 15328,
+		"fechaDeCreacion": "1991-12-31T09:57:36.552Z",
+		"state": "retired "
+	},
+	{
+		"id": 812,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 61835,
+		"fechaDeCreacion": "1998-11-10T02:37:26.117Z",
+		"state": "retired "
+	},
+	{
+		"id": 813,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 3588,
+		"fechaDeCreacion": "1998-10-14T11:30:34.004Z",
+		"state": "retired "
+	},
+	{
+		"id": 814,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 18005,
+		"fechaDeCreacion": "1990-04-23T20:29:59.144Z",
+		"state": "retired "
+	},
+	{
+		"id": 815,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 119931,
+		"fechaDeCreacion": "1996-10-30T23:36:02.903Z",
+		"state": "retired "
+	},
+	{
+		"id": 816,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 127676,
+		"fechaDeCreacion": "1985-05-19T16:52:08.053Z",
+		"state": "retired "
+	},
+	{
+		"id": 817,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 150863,
+		"fechaDeCreacion": "1981-11-19T17:10:31.564Z",
+		"state": "retired "
+	},
+	{
+		"id": 818,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 198319,
+		"fechaDeCreacion": "2000-04-05T05:06:48.286Z",
+		"state": "retired "
+	},
+	{
+		"id": 819,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 173965,
+		"fechaDeCreacion": "1997-12-14T12:12:36.015Z",
+		"state": "retired "
+	},
+	{
+		"id": 820,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 41532,
+		"fechaDeCreacion": "1992-02-10T21:39:18.904Z",
+		"state": "retired "
+	},
+	{
+		"id": 821,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 166156,
+		"fechaDeCreacion": "2000-01-05T07:18:46.555Z",
+		"state": "retired "
+	},
+	{
+		"id": 822,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 74844,
+		"fechaDeCreacion": "1986-08-05T07:19:26.794Z",
+		"state": "retired "
+	},
+	{
+		"id": 823,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 92611,
+		"fechaDeCreacion": "1993-07-09T20:51:04.298Z",
+		"state": "retired "
+	},
+	{
+		"id": 824,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 99847,
+		"fechaDeCreacion": "1995-12-30T01:23:03.473Z",
+		"state": "retired "
+	},
+	{
+		"id": 825,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 149262,
+		"fechaDeCreacion": "1981-08-11T11:29:24.855Z",
+		"state": "retired "
+	},
+	{
+		"id": 826,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 8964,
+		"fechaDeCreacion": "1998-09-16T14:07:14.350Z",
+		"state": "retired "
+	},
+	{
+		"id": 827,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 160428,
+		"fechaDeCreacion": "1984-07-14T15:03:39.320Z",
+		"state": "retired "
+	},
+	{
+		"id": 828,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 40920,
+		"fechaDeCreacion": "2000-09-10T14:08:35.260Z",
+		"state": "retired "
+	},
+	{
+		"id": 829,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 139724,
+		"fechaDeCreacion": "2003-10-12T17:37:30.811Z",
+		"state": "retired "
+	},
+	{
+		"id": 830,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 158430,
+		"fechaDeCreacion": "2002-03-20T21:48:13.438Z",
+		"state": "retired "
+	},
+	{
+		"id": 831,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 14207,
+		"fechaDeCreacion": "2001-03-25T21:12:32.804Z",
+		"state": "retired "
+	},
+	{
+		"id": 832,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 38330,
+		"fechaDeCreacion": "1981-04-27T09:06:11.223Z",
+		"state": "retired "
+	},
+	{
+		"id": 833,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 111778,
+		"fechaDeCreacion": "1982-12-22T23:37:37.152Z",
+		"state": "retired "
+	},
+	{
+		"id": 834,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 111691,
+		"fechaDeCreacion": "2001-02-04T06:36:24.892Z",
+		"state": "retired "
+	},
+	{
+		"id": 835,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 5539,
+		"fechaDeCreacion": "1987-01-23T07:25:25.545Z",
+		"state": "retired "
+	},
+	{
+		"id": 836,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 88611,
+		"fechaDeCreacion": "2001-10-09T04:50:14.138Z",
+		"state": "retired "
+	},
+	{
+		"id": 837,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 183046,
+		"fechaDeCreacion": "1989-04-10T21:23:45.243Z",
+		"state": "retired "
+	},
+	{
+		"id": 838,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 123400,
+		"fechaDeCreacion": "1988-06-30T05:09:42.416Z",
+		"state": "retired "
+	},
+	{
+		"id": 839,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 144065,
+		"fechaDeCreacion": "1980-04-23T03:15:39.149Z",
+		"state": "retired "
+	},
+	{
+		"id": 840,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 117022,
+		"fechaDeCreacion": "1982-06-17T14:23:17.109Z",
+		"state": "retired "
+	},
+	{
+		"id": 841,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 120716,
+		"fechaDeCreacion": "1996-04-23T23:54:34.697Z",
+		"state": "retired "
+	},
+	{
+		"id": 842,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 183875,
+		"fechaDeCreacion": "1987-07-21T22:14:30.456Z",
+		"state": "retired "
+	},
+	{
+		"id": 843,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 5387,
+		"fechaDeCreacion": "1992-10-23T12:55:41.023Z",
+		"state": "retired "
+	},
+	{
+		"id": 844,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 168018,
+		"fechaDeCreacion": "1999-06-23T09:46:51.656Z",
+		"state": "retired "
+	},
+	{
+		"id": 845,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 133780,
+		"fechaDeCreacion": "1991-07-07T07:31:23.456Z",
+		"state": "retired "
+	},
+	{
+		"id": 846,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 99651,
+		"fechaDeCreacion": "1997-02-06T14:02:23.125Z",
+		"state": "retired "
+	},
+	{
+		"id": 847,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 129917,
+		"fechaDeCreacion": "1997-02-22T04:07:55.393Z",
+		"state": "retired "
+	},
+	{
+		"id": 848,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 114058,
+		"fechaDeCreacion": "1985-12-12T00:48:15.518Z",
+		"state": "retired "
+	},
+	{
+		"id": 849,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 170444,
+		"fechaDeCreacion": "1980-07-25T22:20:42.294Z",
+		"state": "retired "
+	},
+	{
+		"id": 850,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 76987,
+		"fechaDeCreacion": "1980-02-16T02:16:09.349Z",
+		"state": "retired "
+	},
+	{
+		"id": 851,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 184120,
+		"fechaDeCreacion": "1987-03-26T23:44:27.312Z",
+		"state": "retired "
+	},
+	{
+		"id": 852,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 112377,
+		"fechaDeCreacion": "1988-07-17T02:13:55.550Z",
+		"state": "retired "
+	},
+	{
+		"id": 853,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 62763,
+		"fechaDeCreacion": "1991-12-29T06:56:17.313Z",
+		"state": "retired "
+	},
+	{
+		"id": 854,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 61675,
+		"fechaDeCreacion": "1989-10-28T01:51:50.510Z",
+		"state": "retired "
+	},
+	{
+		"id": 855,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 83191,
+		"fechaDeCreacion": "1980-03-21T07:32:55.397Z",
+		"state": "retired "
+	},
+	{
+		"id": 856,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 5586,
+		"fechaDeCreacion": "1982-05-31T00:33:55.244Z",
+		"state": "retired "
+	},
+	{
+		"id": 857,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 49176,
+		"fechaDeCreacion": "1994-05-13T15:20:22.356Z",
+		"state": "retired "
+	},
+	{
+		"id": 858,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 91792,
+		"fechaDeCreacion": "1995-11-13T08:16:45.473Z",
+		"state": "retired "
+	},
+	{
+		"id": 859,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 145180,
+		"fechaDeCreacion": "1984-09-14T03:02:11.642Z",
+		"state": "retired "
+	},
+	{
+		"id": 860,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 59824,
+		"fechaDeCreacion": "1980-01-12T08:28:46.831Z",
+		"state": "retired "
+	},
+	{
+		"id": 861,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 189010,
+		"fechaDeCreacion": "1989-08-14T06:28:42.126Z",
+		"state": "retired "
+	},
+	{
+		"id": 862,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 16468,
+		"fechaDeCreacion": "2003-12-18T23:18:45.445Z",
+		"state": "retired "
+	},
+	{
+		"id": 863,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 169571,
+		"fechaDeCreacion": "1981-07-02T15:06:47.153Z",
+		"state": "retired "
+	},
+	{
+		"id": 864,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 158389,
+		"fechaDeCreacion": "1996-01-29T19:55:44.112Z",
+		"state": "retired "
+	},
+	{
+		"id": 865,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 170017,
+		"fechaDeCreacion": "1989-12-24T17:17:21.341Z",
+		"state": "retired "
+	},
+	{
+		"id": 866,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 152370,
+		"fechaDeCreacion": "1999-07-21T07:28:27.979Z",
+		"state": "retired "
+	},
+	{
+		"id": 867,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 70269,
+		"fechaDeCreacion": "1985-07-04T07:24:17.186Z",
+		"state": "retired "
+	},
+	{
+		"id": 868,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 75890,
+		"fechaDeCreacion": "1993-08-17T11:13:34.391Z",
+		"state": "retired "
+	},
+	{
+		"id": 869,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 192038,
+		"fechaDeCreacion": "1991-11-28T01:00:20.901Z",
+		"state": "retired "
+	},
+	{
+		"id": 870,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 152939,
+		"fechaDeCreacion": "1995-08-28T08:16:40.393Z",
+		"state": "retired "
+	},
+	{
+		"id": 871,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 43470,
+		"fechaDeCreacion": "1990-05-29T11:57:59.976Z",
+		"state": "retired "
+	},
+	{
+		"id": 872,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 146498,
+		"fechaDeCreacion": "1983-06-16T10:24:49.647Z",
+		"state": "retired "
+	},
+	{
+		"id": 873,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 98734,
+		"fechaDeCreacion": "2003-10-26T03:12:11.762Z",
+		"state": "retired "
+	},
+	{
+		"id": 874,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 173794,
+		"fechaDeCreacion": "1998-11-11T09:42:06.721Z",
+		"state": "retired "
+	},
+	{
+		"id": 875,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 38954,
+		"fechaDeCreacion": "1983-01-08T02:27:48.627Z",
+		"state": "retired "
+	},
+	{
+		"id": 876,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 177100,
+		"fechaDeCreacion": "1997-01-23T16:12:45.254Z",
+		"state": "retired "
+	},
+	{
+		"id": 877,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 135757,
+		"fechaDeCreacion": "1988-03-08T04:21:31.832Z",
+		"state": "retired "
+	},
+	{
+		"id": 878,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 31297,
+		"fechaDeCreacion": "1993-09-12T08:57:39.364Z",
+		"state": "retired "
+	},
+	{
+		"id": 879,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 193935,
+		"fechaDeCreacion": "2000-08-05T18:55:13.771Z",
+		"state": "retired "
+	},
+	{
+		"id": 880,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 185639,
+		"fechaDeCreacion": "2003-04-18T19:15:25.020Z",
+		"state": "retired "
+	},
+	{
+		"id": 881,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 89762,
+		"fechaDeCreacion": "1992-05-16T17:55:50.864Z",
+		"state": "retired "
+	},
+	{
+		"id": 882,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 3373,
+		"fechaDeCreacion": "1990-09-12T00:59:17.328Z",
+		"state": "retired "
+	},
+	{
+		"id": 883,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 15430,
+		"fechaDeCreacion": "2001-12-16T18:49:08.472Z",
+		"state": "retired "
+	},
+	{
+		"id": 884,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 114035,
+		"fechaDeCreacion": "2001-05-20T08:22:02.668Z",
+		"state": "retired "
+	},
+	{
+		"id": 885,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 40919,
+		"fechaDeCreacion": "1987-09-01T18:34:11.645Z",
+		"state": "retired "
+	},
+	{
+		"id": 886,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 168842,
+		"fechaDeCreacion": "1990-11-24T11:50:43.096Z",
+		"state": "retired "
+	},
+	{
+		"id": 887,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 190935,
+		"fechaDeCreacion": "2001-11-19T04:12:54.279Z",
+		"state": "retired "
+	},
+	{
+		"id": 888,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 66887,
+		"fechaDeCreacion": "2002-06-13T01:38:18.610Z",
+		"state": "retired "
+	},
+	{
+		"id": 889,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 141195,
+		"fechaDeCreacion": "2001-04-06T22:21:57.328Z",
+		"state": "retired "
+	},
+	{
+		"id": 890,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 162720,
+		"fechaDeCreacion": "1993-03-11T20:39:50.841Z",
+		"state": "retired "
+	},
+	{
+		"id": 891,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 10173,
+		"fechaDeCreacion": "2000-07-05T05:44:54.389Z",
+		"state": "retired "
+	},
+	{
+		"id": 892,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 127381,
+		"fechaDeCreacion": "1987-06-20T20:31:54.005Z",
+		"state": "retired "
+	},
+	{
+		"id": 893,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 67840,
+		"fechaDeCreacion": "1995-05-28T19:04:29.031Z",
+		"state": "retired "
+	},
+	{
+		"id": 894,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 146090,
+		"fechaDeCreacion": "1994-04-22T06:14:02.904Z",
+		"state": "retired "
+	},
+	{
+		"id": 895,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 193823,
+		"fechaDeCreacion": "1997-04-28T16:29:05.735Z",
+		"state": "retired "
+	},
+	{
+		"id": 896,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 15165,
+		"fechaDeCreacion": "1989-01-09T12:59:30.266Z",
+		"state": "retired "
+	},
+	{
+		"id": 897,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 193968,
+		"fechaDeCreacion": "1992-11-11T05:52:15.425Z",
+		"state": "retired "
+	},
+	{
+		"id": 898,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 75485,
+		"fechaDeCreacion": "1986-07-23T22:51:19.725Z",
+		"state": "retired "
+	},
+	{
+		"id": 899,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 196719,
+		"fechaDeCreacion": "2003-10-22T10:17:35.996Z",
+		"state": "retired "
+	},
+	{
+		"id": 900,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 61810,
+		"fechaDeCreacion": "1994-10-07T07:09:26.040Z",
+		"state": "retired "
+	},
+	{
+		"id": 901,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 116418,
+		"fechaDeCreacion": "1987-02-17T03:10:07.775Z",
+		"state": "retired "
+	},
+	{
+		"id": 902,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 13284,
+		"fechaDeCreacion": "1982-06-27T08:34:57.281Z",
+		"state": "retired "
+	},
+	{
+		"id": 903,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 10284,
+		"fechaDeCreacion": "1999-02-03T12:43:53.539Z",
+		"state": "retired "
+	},
+	{
+		"id": 904,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 5626,
+		"fechaDeCreacion": "1985-11-11T22:17:52.722Z",
+		"state": "retired "
+	},
+	{
+		"id": 905,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 103150,
+		"fechaDeCreacion": "1981-09-24T23:25:08.808Z",
+		"state": "retired "
+	},
+	{
+		"id": 906,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 117861,
+		"fechaDeCreacion": "1981-08-27T04:23:10.400Z",
+		"state": "retired "
+	},
+	{
+		"id": 907,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 152891,
+		"fechaDeCreacion": "1992-06-16T18:19:29.715Z",
+		"state": "retired "
+	},
+	{
+		"id": 908,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 56732,
+		"fechaDeCreacion": "1992-01-02T23:34:16.662Z",
+		"state": "retired "
+	},
+	{
+		"id": 909,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 149113,
+		"fechaDeCreacion": "1988-03-28T12:24:00.872Z",
+		"state": "retired "
+	},
+	{
+		"id": 910,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 134649,
+		"fechaDeCreacion": "1992-08-16T22:13:59.243Z",
+		"state": "retired "
+	},
+	{
+		"id": 911,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 65376,
+		"fechaDeCreacion": "1983-02-20T01:27:08.796Z",
+		"state": "retired "
+	},
+	{
+		"id": 912,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 21697,
+		"fechaDeCreacion": "1996-09-02T16:58:09.395Z",
+		"state": "retired "
+	},
+	{
+		"id": 913,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 144084,
+		"fechaDeCreacion": "2001-05-09T02:32:25.628Z",
+		"state": "retired "
+	},
+	{
+		"id": 914,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 98141,
+		"fechaDeCreacion": "1984-01-03T04:57:12.103Z",
+		"state": "retired "
+	},
+	{
+		"id": 915,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 129136,
+		"fechaDeCreacion": "1984-08-18T13:17:57.379Z",
+		"state": "retired "
+	},
+	{
+		"id": 916,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 114387,
+		"fechaDeCreacion": "1997-10-21T13:38:56.600Z",
+		"state": "retired "
+	},
+	{
+		"id": 917,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 167453,
+		"fechaDeCreacion": "1981-06-14T20:40:22.602Z",
+		"state": "retired "
+	},
+	{
+		"id": 918,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 160854,
+		"fechaDeCreacion": "1983-04-18T18:51:54.873Z",
+		"state": "retired "
+	},
+	{
+		"id": 919,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 190309,
+		"fechaDeCreacion": "1985-02-12T23:44:21.647Z",
+		"state": "retired "
+	},
+	{
+		"id": 920,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 87529,
+		"fechaDeCreacion": "1999-04-07T07:07:14.917Z",
+		"state": "retired "
+	},
+	{
+		"id": 921,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 13348,
+		"fechaDeCreacion": "1985-04-14T22:39:06.600Z",
+		"state": "retired "
+	},
+	{
+		"id": 922,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 76893,
+		"fechaDeCreacion": "2000-11-11T15:28:46.051Z",
+		"state": "retired "
+	},
+	{
+		"id": 923,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 77903,
+		"fechaDeCreacion": "2001-01-19T10:35:05.917Z",
+		"state": "retired "
+	},
+	{
+		"id": 924,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 26359,
+		"fechaDeCreacion": "2000-06-27T21:18:23.000Z",
+		"state": "retired "
+	},
+	{
+		"id": 925,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 50138,
+		"fechaDeCreacion": "1990-11-08T14:14:10.293Z",
+		"state": "retired "
+	},
+	{
+		"id": 926,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 150964,
+		"fechaDeCreacion": "1994-07-01T14:31:10.982Z",
+		"state": "retired "
+	},
+	{
+		"id": 927,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 8788,
+		"fechaDeCreacion": "1980-12-10T17:20:21.983Z",
+		"state": "retired "
+	},
+	{
+		"id": 928,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 150050,
+		"fechaDeCreacion": "1988-11-18T15:51:48.856Z",
+		"state": "retired "
+	},
+	{
+		"id": 929,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 153151,
+		"fechaDeCreacion": "1996-08-10T09:06:52.649Z",
+		"state": "retired "
+	},
+	{
+		"id": 930,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 57525,
+		"fechaDeCreacion": "1986-12-29T17:42:08.423Z",
+		"state": "retired "
+	},
+	{
+		"id": 931,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 143297,
+		"fechaDeCreacion": "1982-09-03T18:00:31.473Z",
+		"state": "retired "
+	},
+	{
+		"id": 932,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 36220,
+		"fechaDeCreacion": "2000-10-14T11:40:53.832Z",
+		"state": "retired "
+	},
+	{
+		"id": 933,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 65131,
+		"fechaDeCreacion": "1995-07-31T20:22:49.967Z",
+		"state": "retired "
+	},
+	{
+		"id": 934,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 146851,
+		"fechaDeCreacion": "1985-05-21T06:11:43.703Z",
+		"state": "retired "
+	},
+	{
+		"id": 935,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 55006,
+		"fechaDeCreacion": "2000-02-13T01:37:13.546Z",
+		"state": "retired "
+	},
+	{
+		"id": 936,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 83221,
+		"fechaDeCreacion": "1984-11-21T13:11:11.460Z",
+		"state": "retired "
+	},
+	{
+		"id": 937,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 142110,
+		"fechaDeCreacion": "2003-05-02T06:13:06.923Z",
+		"state": "retired "
+	},
+	{
+		"id": 938,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 89585,
+		"fechaDeCreacion": "1991-01-16T05:30:35.291Z",
+		"state": "retired "
+	},
+	{
+		"id": 939,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 5752,
+		"fechaDeCreacion": "1995-02-21T21:39:02.384Z",
+		"state": "retired "
+	},
+	{
+		"id": 940,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 37589,
+		"fechaDeCreacion": "1994-01-01T10:12:23.100Z",
+		"state": "retired "
+	},
+	{
+		"id": 941,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 80688,
+		"fechaDeCreacion": "1986-01-26T06:07:57.677Z",
+		"state": "retired "
+	},
+	{
+		"id": 942,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 104997,
+		"fechaDeCreacion": "1989-04-19T03:29:57.459Z",
+		"state": "retired "
+	},
+	{
+		"id": 943,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 68852,
+		"fechaDeCreacion": "1994-02-27T17:20:22.609Z",
+		"state": "retired "
+	},
+	{
+		"id": 944,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 28887,
+		"fechaDeCreacion": "1988-09-04T08:10:41.038Z",
+		"state": "retired "
+	},
+	{
+		"id": 945,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 16379,
+		"fechaDeCreacion": "1983-10-20T12:57:47.559Z",
+		"state": "retired "
+	},
+	{
+		"id": 946,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 196461,
+		"fechaDeCreacion": "1997-12-26T19:40:02.331Z",
+		"state": "retired "
+	},
+	{
+		"id": 947,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 39957,
+		"fechaDeCreacion": "1990-10-15T07:54:48.547Z",
+		"state": "retired "
+	},
+	{
+		"id": 948,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 95582,
+		"fechaDeCreacion": "1982-09-19T16:38:35.463Z",
+		"state": "retired "
+	},
+	{
+		"id": 949,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 152682,
+		"fechaDeCreacion": "1993-04-11T22:11:23.541Z",
+		"state": "retired "
+	},
+	{
+		"id": 950,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 37401,
+		"fechaDeCreacion": "1988-06-23T10:51:52.552Z",
+		"state": "retired "
+	},
+	{
+		"id": 951,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 13428,
+		"fechaDeCreacion": "1986-03-09T04:46:15.676Z",
+		"state": "retired "
+	},
+	{
+		"id": 952,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 162677,
+		"fechaDeCreacion": "1995-06-04T12:43:58.163Z",
+		"state": "retired "
+	},
+	{
+		"id": 953,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 143955,
+		"fechaDeCreacion": "1981-04-09T09:09:54.594Z",
+		"state": "retired "
+	},
+	{
+		"id": 954,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 3555,
+		"fechaDeCreacion": "1990-10-07T00:49:14.578Z",
+		"state": "retired "
+	},
+	{
+		"id": 955,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 118923,
+		"fechaDeCreacion": "1982-03-23T07:57:59.142Z",
+		"state": "retired "
+	},
+	{
+		"id": 956,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 111069,
+		"fechaDeCreacion": "1996-08-02T03:46:50.939Z",
+		"state": "retired "
+	},
+	{
+		"id": 957,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 112675,
+		"fechaDeCreacion": "1994-12-14T19:20:56.315Z",
+		"state": "retired "
+	},
+	{
+		"id": 958,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 12313,
+		"fechaDeCreacion": "1986-11-28T19:22:20.970Z",
+		"state": "retired "
+	},
+	{
+		"id": 959,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 97679,
+		"fechaDeCreacion": "2003-11-15T11:33:38.560Z",
+		"state": "retired "
+	},
+	{
+		"id": 960,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 163576,
+		"fechaDeCreacion": "1989-05-08T22:09:01.696Z",
+		"state": "retired "
+	},
+	{
+		"id": 961,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 101997,
+		"fechaDeCreacion": "1998-03-12T19:27:14.238Z",
+		"state": "retired "
+	},
+	{
+		"id": 962,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 193903,
+		"fechaDeCreacion": "1993-06-13T21:06:48.530Z",
+		"state": "retired "
+	},
+	{
+		"id": 963,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 161006,
+		"fechaDeCreacion": "1989-01-06T20:33:05.533Z",
+		"state": "retired "
+	},
+	{
+		"id": 964,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 37469,
+		"fechaDeCreacion": "1998-11-02T14:41:43.774Z",
+		"state": "retired "
+	},
+	{
+		"id": 965,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 120301,
+		"fechaDeCreacion": "2002-10-05T01:13:53.023Z",
+		"state": "retired "
+	},
+	{
+		"id": 966,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 132964,
+		"fechaDeCreacion": "1998-09-21T08:07:49.787Z",
+		"state": "retired "
+	},
+	{
+		"id": 967,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 167297,
+		"fechaDeCreacion": "1986-11-27T18:56:05.793Z",
+		"state": "retired "
+	},
+	{
+		"id": 968,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 165914,
+		"fechaDeCreacion": "1996-12-20T16:34:05.570Z",
+		"state": "retired "
+	},
+	{
+		"id": 969,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 10772,
+		"fechaDeCreacion": "1990-08-03T04:10:17.487Z",
+		"state": "retired "
+	},
+	{
+		"id": 970,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 69293,
+		"fechaDeCreacion": "1991-01-19T06:21:22.575Z",
+		"state": "retired "
+	},
+	{
+		"id": 971,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 71210,
+		"fechaDeCreacion": "1995-06-20T08:25:00.380Z",
+		"state": "retired "
+	},
+	{
+		"id": 972,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 145895,
+		"fechaDeCreacion": "1999-08-04T19:42:37.329Z",
+		"state": "retired "
+	},
+	{
+		"id": 973,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 165909,
+		"fechaDeCreacion": "1997-02-28T12:56:09.328Z",
+		"state": "retired "
+	},
+	{
+		"id": 974,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 159744,
+		"fechaDeCreacion": "1998-05-09T05:40:46.912Z",
+		"state": "retired "
+	},
+	{
+		"id": 975,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 153881,
+		"fechaDeCreacion": "1986-09-20T16:06:48.653Z",
+		"state": "retired "
+	},
+	{
+		"id": 976,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 129400,
+		"fechaDeCreacion": "1997-07-24T03:45:44.644Z",
+		"state": "retired "
+	},
+	{
+		"id": 977,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 153555,
+		"fechaDeCreacion": "1992-09-13T05:38:45.222Z",
+		"state": "retired "
+	},
+	{
+		"id": 978,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 49464,
+		"fechaDeCreacion": "1986-06-11T16:55:16.491Z",
+		"state": "retired "
+	},
+	{
+		"id": 979,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 161106,
+		"fechaDeCreacion": "1984-12-28T12:01:29.184Z",
+		"state": "retired "
+	},
+	{
+		"id": 980,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 95366,
+		"fechaDeCreacion": "1981-08-05T16:33:09.060Z",
+		"state": "retired "
+	},
+	{
+		"id": 981,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 188936,
+		"fechaDeCreacion": "1999-06-21T13:14:01.280Z",
+		"state": "retired "
+	},
+	{
+		"id": 982,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 79073,
+		"fechaDeCreacion": "1989-06-03T06:56:40.861Z",
+		"state": "retired "
+	},
+	{
+		"id": 983,
+		"country": "Ecuador",
+		"city": "Guayaquil",
+		"valueMarket": 49589,
+		"fechaDeCreacion": "1996-08-22T02:23:27.652Z",
+		"state": "retired "
+	},
+	{
+		"id": 984,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 58216,
+		"fechaDeCreacion": "1981-02-03T17:31:50.146Z",
+		"state": "retired "
+	},
+	{
+		"id": 985,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 66926,
+		"fechaDeCreacion": "1995-09-16T14:18:14.463Z",
+		"state": "retired "
+	},
+	{
+		"id": 986,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 45705,
+		"fechaDeCreacion": "1983-09-27T00:41:17.902Z",
+		"state": "retired "
+	},
+	{
+		"id": 987,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 6136,
+		"fechaDeCreacion": "1990-08-03T11:52:27.946Z",
+		"state": "retired "
+	},
+	{
+		"id": 988,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 10499,
+		"fechaDeCreacion": "1994-11-14T00:48:58.351Z",
+		"state": "retired "
+	},
+	{
+		"id": 989,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 14583,
+		"fechaDeCreacion": "1988-10-28T21:36:50.178Z",
+		"state": "retired "
+	},
+	{
+		"id": 990,
+		"country": "España",
+		"city": "Sevilla",
+		"valueMarket": 112687,
+		"fechaDeCreacion": "1981-06-05T06:53:50.227Z",
+		"state": "retired "
+	},
+	{
+		"id": 991,
+		"country": "Ecuador",
+		"city": "Buenos Aires",
+		"valueMarket": 190818,
+		"fechaDeCreacion": "1989-03-19T23:29:57.648Z",
+		"state": "retired "
+	},
+	{
+		"id": 992,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 106155,
+		"fechaDeCreacion": "1992-05-05T10:23:39.318Z",
+		"state": "retired "
+	},
+	{
+		"id": 993,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 140478,
+		"fechaDeCreacion": "1991-12-01T09:49:05.070Z",
+		"state": "retired "
+	},
+	{
+		"id": 994,
+		"country": "España",
+		"city": "Buenos Aires",
+		"valueMarket": 13214,
+		"fechaDeCreacion": "1988-06-14T07:44:53.746Z",
+		"state": "retired "
+	},
+	{
+		"id": 995,
+		"country": "Argentina",
+		"city": "Buenos Aires",
+		"valueMarket": 191065,
+		"fechaDeCreacion": "1980-02-12T15:55:44.020Z",
+		"state": "retired "
+	},
+	{
+		"id": 996,
+		"country": "Argentina",
+		"city": "Guayaquil",
+		"valueMarket": 125343,
+		"fechaDeCreacion": "1980-07-22T08:54:19.112Z",
+		"state": "retired "
+	},
+	{
+		"id": 997,
+		"country": "Argentina",
+		"city": "Sevilla",
+		"valueMarket": 3617,
+		"fechaDeCreacion": "1994-06-23T07:10:47.721Z",
+		"state": "retired "
+	},
+	{
+		"id": 998,
+		"country": "Ecuador",
+		"city": "Sevilla",
+		"valueMarket": 154537,
+		"fechaDeCreacion": "1998-04-03T02:23:18.749Z",
+		"state": "retired "
+	},
+	{
+		"id": 999,
+		"country": "España",
+		"city": "Guayaquil",
+		"valueMarket": 141050,
+		"fechaDeCreacion": "1996-04-05T05:06:56.515Z",
+		"state": "retired "
+	}
+]
