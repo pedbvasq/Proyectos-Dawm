@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\footballstats",
+    "\\footballstats\\src",
+    "\\footballstats\\src\\app",
+    "\\footballstats\\src\\app\\pages",
+    "\\footballstats\\src\\app\\pages\\home",
+    "\\footballstats\\src\\app\\pages\\players",
+    "\\footballstats\\src\\app\\pages\\teams"
+  ],
+  "SelectedNode": "\\footballstats\\src\\app\\pages\\teams\\teams.component.html",
+  "PreviewInSolutionExplorer": false
+}
