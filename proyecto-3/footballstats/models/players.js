@@ -6,37 +6,44 @@ module.exports = function(sequelize, DataTypes) {
       allowNull: false,
       primaryKey: true
     },
-    name: {
+    firts_name: {
       type: DataTypes.STRING(45),
-      allowNull: false
+      allowNull: true,
+      defaultValue: "NO REGISTRADOS"
     },
     last_name: {
       type: DataTypes.STRING(45),
-      allowNull: false
+      allowNull: true,
+      defaultValue: "NO REGISTRADOS"
     },
     position: {
       type: DataTypes.STRING(45),
-      allowNull: false
+      allowNull: true,
+      defaultValue: "NO REGISTRADOS"
     },
     salary: {
       type: DataTypes.FLOAT,
-      allowNull: false
+      allowNull: true,
+      defaultValue: 0
     },
     goals: {
       type: DataTypes.INTEGER,
-      allowNull: true
+      allowNull: true,
+      defaultValue: 0
     },
     assists: {
-      type: DataTypes.STRING(45),
-      allowNull: true
+      type: DataTypes.INTEGER,
+      allowNull: true,
+      defaultValue: 0
     },
     matches: {
-      type: DataTypes.STRING(45),
-      allowNull: true
+      type: DataTypes.INTEGER,
+      allowNull: true,
+      defaultValue: 0
     },
     date_birth: {
       type: DataTypes.DATEONLY,
-      allowNull: false
+      allowNull: true
     },
     idteam: {
       type: DataTypes.INTEGER,

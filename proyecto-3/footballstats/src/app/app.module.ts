@@ -19,6 +19,8 @@ import { StadisticsComponent } from './pages/stadistics/stadistics.component';
 import { PlayersComponent } from './pages/players/players.component';
 import { TeamsComponent } from './pages/teams/teams.component';
 import { BudgetsComponent } from './pages/budgets/budgets.component';
+import {MatRadioModule} from '@angular/material/radio';
+import {MatDatepickerModule} from '@angular/material/datepicker';
 
 
 
@@ -33,7 +35,9 @@ import { BudgetsComponent } from './pages/budgets/budgets.component';
     MatButtonModule,
     MatIconModule,
     MatDividerModule,
-    MatCardModule
+    MatCardModule,
+    MatRadioModule,
+    MatDatepickerModule
   ],
   providers: [],
   bootstrap: [AppComponent],

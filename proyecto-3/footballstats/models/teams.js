@@ -6,7 +6,7 @@ module.exports = function(sequelize, DataTypes) {
       allowNull: false,
       primaryKey: true
     },
-    name: {
+    nameteam: {
       type: DataTypes.STRING(45),
       allowNull: false
     },
@@ -14,28 +14,24 @@ module.exports = function(sequelize, DataTypes) {
       type: DataTypes.STRING(45),
       allowNull: false
     },
-    idplayers: {
-      type: DataTypes.STRING(45),
-      allowNull: false
-    },
     budget: {
-      type: DataTypes.STRING(45),
+      type: DataTypes.INTEGER,
       allowNull: false
     },
     idleague: {
-      type: DataTypes.STRING(45),
+      type: DataTypes.INTEGER,
       allowNull: false,
       references: {
         model: 'league',
-        key: 'leaguename'
+        key: 'idleague'
       }
     },
     points: {
-      type: DataTypes.STRING(45),
+      type: DataTypes.INTEGER,
       allowNull: false
     },
     titles: {
-      type: DataTypes.STRING(45),
+      type: DataTypes.INTEGER,
       allowNull: false
     }
   }, {
@@ -52,7 +48,7 @@ module.exports = function(sequelize, DataTypes) {
         ]
       },
       {
-        name: "idleague",
+        name: "fk_liga_idx",
         using: "BTREE",
         fields: [
           { name: "idleague" },

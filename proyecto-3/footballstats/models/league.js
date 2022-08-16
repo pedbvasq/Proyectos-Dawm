@@ -12,7 +12,7 @@ module.exports = function(sequelize, DataTypes) {
       unique: "leaguename_UNIQUE"
     },
     budget: {
-      type: DataTypes.STRING(45),
+      type: DataTypes.INTEGER,
       allowNull: false
     }
   }, {

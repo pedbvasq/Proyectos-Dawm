@@ -10,6 +10,7 @@ import { PlayersComponent} from './pages/players/players.component';
 import { TeamsComponent} from './pages/teams/teams.component';
 import {BudgetsComponent} from './pages/budgets/budgets.component';
 import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+import { HashLocationStrategy, LocationStrategy  } from '@angular/common';
 
 const routes: Routes = [
   {
@@ -60,6 +61,11 @@ const routes: Routes = [
   exports: [RouterModule],
   schemas: [
     CUSTOM_ELEMENTS_SCHEMA
+  ],
+    providers: [
+    
+    {provide : LocationStrategy , useClass: HashLocationStrategy}
+    
   ],
 })
 export class AppRoutingModule {}
