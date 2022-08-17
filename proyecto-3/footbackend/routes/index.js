@@ -1,17 +1,23 @@
 var express = require('express');
+const { Sequelize } = require('../models');
 var router = express.Router();
 
 
-const sequelize = require('../models/index.js').sequelize;
-var initModels = require("../models/init-models");
-var models = initModels(sequelize);  
+
+const Teams = require('../models').teams;
+
 /* GET home page. */
 router.get('/', function(req, res, next) {
    res.send("Hello Woorld");
 });
 
-router.get('/nuevaRuta', function(req, res, next) {
-  res.send("Nueva Ruta");
+router.get('/teams', function(req, res, next) {
+  
+  Teams.findAll({
+    attibutes:["nameteam"]
+  }).then(teams =>{
+      res.send(teams)
+  } )
 });
 
 module.exports = router;
