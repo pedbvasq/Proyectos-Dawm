@@ -21,6 +21,7 @@ import { TeamsComponent } from './pages/teams/teams.component';
 import { BudgetsComponent } from './pages/budgets/budgets.component';
 import {MatRadioModule} from '@angular/material/radio';
 import {MatDatepickerModule} from '@angular/material/datepicker';
+import { HttpClientModule } from '@angular/common/http';
 
 
 
@@ -37,7 +38,8 @@ import {MatDatepickerModule} from '@angular/material/datepicker';
     MatDividerModule,
     MatCardModule,
     MatRadioModule,
-    MatDatepickerModule
+    MatDatepickerModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent],
