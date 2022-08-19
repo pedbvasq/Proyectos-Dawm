@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {TeamsService} from 'src/app/services/teams.service';
 
 @Component({
   selector: 'app-teams',
@@ -7,9 +8,20 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TeamsComponent implements OnInit {
 
-  constructor() { }
+  players: any=[];
+  fruits: string[] = ["Banana", "Apple", "Guava", "Strawberry"];
+  
+  constructor(private playService:TeamsService,favFruit: string) { }
 
   ngOnInit(): void {
+    
+    this.playService.getAll().subscribe(data=>{
+      this.players=data;
+      console.log(data)
   }
+
+  
+
+ 
 
 }

@@ -15,5 +15,11 @@ export class PlayersService {
     
 
   };
+
+  getPlayers():Observable<any>{
+    return this.http.get("https://football-stats-343fd-default-rtdb.firebaseio.com/collection.json");
+    
+
+  };
 }
 

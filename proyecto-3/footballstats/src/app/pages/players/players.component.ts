@@ -15,7 +15,7 @@ export class PlayersComponent implements OnInit {
    }
 
   ngOnInit(): void {
-    this.playService.getAll().subscribe(data=>{
+    this.playService.getPlayers().subscribe(data=>{
       this.players=data;
       console.log(data)
     })

@@ -11,6 +11,7 @@ import { TeamsComponent} from './pages/teams/teams.component';
 import {BudgetsComponent} from './pages/budgets/budgets.component';
 import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { HashLocationStrategy, LocationStrategy  } from '@angular/common';
+import { MatButtonModule } from '@angular/material/button';
 
 const routes: Routes = [
   {

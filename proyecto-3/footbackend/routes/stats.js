@@ -1,6 +1,6 @@
 var express = require('express');
+const { Op } = require("sequelize");
 var router = express.Router();
-
 const { Sequelize } = require('../models');
 const League = require('../models').league ;
 const Teams = require('../models').teams;
@@ -10,20 +10,17 @@ const Players = require('../models').players;
 router.get('/', function(req, res, next) {
    res.send("NO DEFINIDA");
 });
-router.get('/league', function(req, res, next) {
-  League.findAll().
-  then(data =>{
-   res.send(data);
-  })
-  .catch(e=>{
-    console.log(e)
 
-  })
-})
 
-router.get('/teams', function(req, res, next) {
-   Teams.findAll().
+router.get('/teams/:idleague', function(req, res, next) {
+  let id = req.params.idleague
+   Teams.findAll({
+      where:{
+        idleague:id
+      }
+   }).
    then(data =>{
+    console.log(data)
     res.send(data);
    })
    .catch(e=>{
