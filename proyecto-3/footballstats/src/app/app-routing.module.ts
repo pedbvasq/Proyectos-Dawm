@@ -12,6 +12,7 @@ import {BudgetsComponent} from './pages/budgets/budgets.component';
 import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { HashLocationStrategy, LocationStrategy  } from '@angular/common';
 import { MatButtonModule } from '@angular/material/button';
+import { PlayerDetallesComponent } from './pages/player-detalles/player-detalles.component';
 
 const routes: Routes = [
   {
@@ -52,9 +53,10 @@ const routes: Routes = [
     component: HelpComponent,
   },
   {
-    path: '**',
-    component: NotFoundComponent,
+    path: 'player-detalles',
+    component: PlayerDetallesComponent,
   },
+  
 ];
 
 @NgModule({

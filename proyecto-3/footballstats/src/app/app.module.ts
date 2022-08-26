@@ -22,11 +22,12 @@ import { BudgetsComponent } from './pages/budgets/budgets.component';
 import {MatRadioModule} from '@angular/material/radio';
 import {MatDatepickerModule} from '@angular/material/datepicker';
 import { HttpClientModule } from '@angular/common/http';
-import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { MatTableModule } from '@angular/material/table';
+import { PlayerDetallesComponent } from './pages/player-detalles/player-detalles.component';
 
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent, ProfileComponent, AboutComponent, HelpComponent, NotFoundComponent, StadisticsComponent, PlayersComponent, TeamsComponent, BudgetsComponent],
+  declarations: [AppComponent, HomeComponent, ProfileComponent, AboutComponent, HelpComponent, NotFoundComponent, StadisticsComponent, PlayersComponent, TeamsComponent, BudgetsComponent, PlayerDetallesComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -40,7 +41,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     MatRadioModule,
     MatDatepickerModule,
     HttpClientModule,
-    FormsModule,
+    MatTableModule
   ],
   providers: [],
   bootstrap: [AppComponent],

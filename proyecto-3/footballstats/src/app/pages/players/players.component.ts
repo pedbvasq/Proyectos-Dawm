@@ -10,14 +10,17 @@ import {PlayersService} from 'src/app/services/players.service';
 export class PlayersComponent implements OnInit {
 
   players: any=[];
+  displayedColumns: string[] = ["idplayers","firsts_name","last_name"];
+  dataSource = [];
+
   constructor(private playService:PlayersService) {
 
    }
 
   ngOnInit(): void {
-    this.playService.getPlayers().subscribe(data=>{
-      this.players=data;
-      console.log(data)
+    this.playService.getAll().subscribe(data=>{
+      this.dataSource = data as any
+      console.log(this.dataSource)
     })
   }
 
