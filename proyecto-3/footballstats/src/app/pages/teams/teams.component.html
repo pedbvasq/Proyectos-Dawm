@@ -7,15 +7,4 @@
 
   </p>
   <hr>
-  <div *ngFor="let fruit of fruits">
-    <label for="{{fruit}}">
-      <input id="{{fruit}}" [value]='fruit' type="radio" name="fruits" [(ngModel)]="favFruit">
-      {{fruit}}
-    </label>
-</div>
-<button (click)='radioFun'>Submit</button>
-
-<div>
-<p>The selected Fruit is <b>{{favFruit}}</b></p>
-</div>
 

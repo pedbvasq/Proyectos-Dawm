@@ -8,20 +8,17 @@ import {TeamsService} from 'src/app/services/teams.service';
 })
 export class TeamsComponent implements OnInit {
 
-  players: any=[];
-  fruits: string[] = ["Banana", "Apple", "Guava", "Strawberry"];
+
   
-  constructor(private playService:TeamsService,favFruit: string) { }
+  constructor(private playService:TeamsService) { }
 
   ngOnInit(): void {
     
-    this.playService.getAll().subscribe(data=>{
-      this.players=data;
-      console.log(data)
-  }
+  
 
   
 
  
 
+  }
 }
