@@ -16,10 +16,16 @@ export class PlayersService {
 
   };
 
-  getPlayers():Observable<any>{
-    return this.http.get("https://football-stats-343fd-default-rtdb.firebaseio.com/collection.json");
+  getPlayersDetails(id:string):Observable<any>{
+    const str = 
+    `https://football-stats-343fd-default-rtdb.firebaseio.com/collection.json?orderBy=%22id%22&equalTo=%22
+    ${encodeURIComponent(
+      id
+    )}%22`;
+    console.log(str)
+    return this.http.get(str);
     
-
+  }
   };
-}
+
 

@@ -53,7 +53,7 @@ const routes: Routes = [
     component: HelpComponent,
   },
   {
-    path: 'player-detalles',
+    path: 'player-detalles/:idplayers',
     component: PlayerDetallesComponent,
   },
   
