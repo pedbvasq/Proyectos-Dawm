@@ -12,6 +12,19 @@ router.get('/', function(req, res, next) {
 });
 
 
+router.get('/teams',function(req,res,next){
+  Teams.findAll().
+  then(data=>{
+    res.json(data)
+  }).catch(e=>{
+    console.log(e)
+
+  })
+}
+)
+
+
+
 router.get('/teams/:idleague', function(req, res, next) {
   let id = req.params.idleague
    Teams.findAll({
@@ -40,6 +53,7 @@ router.get('/players', function(req, res, next) {
  
    })
  })
+
 
 
 module.exports = router;

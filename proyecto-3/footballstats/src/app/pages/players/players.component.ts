@@ -20,7 +20,7 @@ export class PlayersComponent implements OnInit {
   ngOnInit(): void {
     this.playService.getAll().subscribe(data=>{
       this.dataSource = data as any
-      console.log(this.dataSource)
+   
     })
   }
 

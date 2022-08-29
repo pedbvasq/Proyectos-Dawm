@@ -29,18 +29,14 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use("/stats", statsRouter)
 
+
+app.use(cors({ origin: true }));
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin","*");
   res.header("Access-Control-Allow-Methods","POST, GET, OPTIONS,PUT,DELETE");
   res.header("Access-Control-Allow-Headers","content-type");
   next();
    
-});
-app.use(cors({ origin: true }));
-exports.widgets = functions.https.onRequest(app);
-// catch 404 and forward to error handler
-app.use(function(req, res, next) {
-  next(createError(404));
 });
 
 

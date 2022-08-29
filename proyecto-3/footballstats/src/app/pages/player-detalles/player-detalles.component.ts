@@ -9,10 +9,10 @@ import { Player } from 'src/app/interfaz/player';
 })
 export class PlayerDetallesComponent implements OnInit {
 
-  item: Player = {
+  player: Player = {
     city:"",
     country:"",
-   fechaDeCreacion:"",
+    fechaDeCreacion:"",
     id:0,
     state:"",
     valueMarket:0
@@ -22,10 +22,11 @@ export class PlayerDetallesComponent implements OnInit {
 
   ngOnInit(): void {
     const params = this.activatedRoute.snapshot.params;
-    const idplayers = params["idplayers"]
+    const id = params["idplayers"]
 
-    this.PlayerServicio.getPlayersDetails(idplayers).subscribe(respuesta => {
-      this.item = respuesta as Player
+    this.PlayerServicio.getPlayersDetails(id).subscribe(respuesta => {
+      this.player = respuesta as Player
+      console.log()
     })
   }
 
