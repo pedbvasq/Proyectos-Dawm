@@ -22,6 +22,8 @@
     "@angular/platform-browser-dynamic": "~11.2.0",
     "@angular/router": "~11.2.0",
     "@ngneat/until-destroy": "^8.0.0",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.0",
     "cors": "^2.8.5",
     "mysql2": "^2.3.3",
     "rxjs": "~6.6.0",

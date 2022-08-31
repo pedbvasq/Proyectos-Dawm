@@ -1,12 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 import {TeamsService} from 'src/app/services/teams.service';
 import { Teams } from 'src/app/interfaz/teams';
-import { DomSanitizer } from '@angular/platform-browser';
+
 
 @Component({
   selector: 'app-teams',
   templateUrl: './teams.component.html',
-  styleUrls: ['./teams.component.scss']
+  styleUrls: ['./teams.component.scss'],
 })
 export class TeamsComponent implements OnInit {
   equipos: Teams = {
@@ -21,6 +21,7 @@ export class TeamsComponent implements OnInit {
   teams:any=[];
   mostrar:boolean =false;
   teamsId :any=[]
+  teamsSql:any =[]
   constructor(private teamsService:TeamsService) { }
 
   ngOnInit(): void {
@@ -34,13 +35,25 @@ export class TeamsComponent implements OnInit {
 
 
   }
-  buscarEquipo(evento:any){
+        
+      
+
+    
+buscarEquipo(evento:any){
     this.mostrar=true;
-    let id:string = evento.target.value;
-    console.log(evento.target.value)
+    let id =evento.target.value;
+   
     this.teamsService.getTeamsDetails(id).subscribe(data =>{
       this.teamsId=data;
-      console.log(this.teamsId)
-    })
+  
+    });
+    /*
+    this.teamsService.getAllId(id).subscribe(data =>{
+      this.teamsSql=data;
+      console.log(this.teamsSql)
+      
+    });
+    
+   */
   }
 }
