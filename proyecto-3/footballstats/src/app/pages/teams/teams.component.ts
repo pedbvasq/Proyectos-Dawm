@@ -44,7 +44,8 @@ buscarEquipo(evento:any){
     let id =evento.target.value;
    
     this.teamsService.getTeamsDetails(id).subscribe(data =>{
-      this.teamsId=data;
+      this.teamsId=data[id];
+      console.log(this.teamsId.sede)
   
     });
     /*

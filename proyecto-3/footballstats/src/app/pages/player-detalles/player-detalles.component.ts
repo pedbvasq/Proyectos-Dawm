@@ -17,7 +17,7 @@ export class PlayerDetallesComponent implements OnInit {
     state:"",
     valueMarket:0
   };
-
+  jugadores:any=[];
   constructor(private PlayerServicio: PlayersService, private activatedRoute: ActivatedRoute) { }
 
   ngOnInit(): void {
@@ -25,8 +25,8 @@ export class PlayerDetallesComponent implements OnInit {
     const id = params["idplayers"]
 
     this.PlayerServicio.getPlayersDetails(id).subscribe(respuesta => {
-      this.player = respuesta as Player
-      console.log()
+      this.jugadores = respuesta[id];
+      console.log(this.jugadores.city)
     })
   }
 

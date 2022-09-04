@@ -25,11 +25,11 @@ router.get('/teams',function(req,res,next){
 
 
 
-router.get('/teams/:idteams', function(req, res, next) {
+router.get('/teams/:idleague', function(req, res, next) {
   let id = req.params.idleague
    Teams.findAll({
       where:{
-        idteams:id
+        idleague:id
       }
    }).
    then(data =>{
@@ -37,7 +37,7 @@ router.get('/teams/:idteams', function(req, res, next) {
     res.send(data);
    })
    .catch(e=>{
-     console.log(e)
+   
  
    })
  })
