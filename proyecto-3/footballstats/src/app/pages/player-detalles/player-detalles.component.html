@@ -1,17 +1,17 @@
 <mat-card class="example-card mt-2">
     <mat-card-header>
-      <mat-card-title>Detalles</mat-card-title>
+      <mat-card-title class="titulo">Detalles</mat-card-title>
       <mat-card-subtitle>sobre el jugador</mat-card-subtitle>
       <h1></h1>
     </mat-card-header>
     <mat-card-content>
-      <p>Fecha de nacimiento: {{jugadores.fechaDeCreacion | date:'MMM d, y h:mm'}}</p>
-      <p>Pais de nacimiento:{{jugadores.country}}</p>
-      <p>Ciudad de actual residencia:{{jugadores.city}}</p>
-      <p>Valor del mercado:{{jugadores. valueMarket}}</p>
+      <p><b>Fecha de nacimiento:</b>  {{jugadores.fechaDeCreacion | date:'MMM d, y h:mm'}}</p>
+      <p><b>Pais de nacimiento:</b> {{jugadores.country}}</p>
+      <p><b>Ciudad de actual</b> residencia: {{jugadores.city}}</p>
+      <p><b>Valor del mercado:</b> {{jugadores. valueMarket}}</p>
     </mat-card-content>
     <mat-card-actions>
-      <button mat-button mat-raised-button  value="Go back!" onclick="history.back()">Regresar</button>
+      <button class="boton" mat-button mat-raised-button  value="Go back!" onclick="history.back()">Regresar</button>
     
     </mat-card-actions>
   </mat-card>

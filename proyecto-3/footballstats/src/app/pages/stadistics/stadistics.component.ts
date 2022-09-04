@@ -5,12 +5,20 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './stadistics.component.html',
   styleUrls: ['./stadistics.component.scss']
 })
-export class StadisticsComponent implements OnInit {
 
+export class StadisticsComponent implements OnInit {
+mostrar:boolean=false;
   constructor() { }
 
   ngOnInit(): void {
+    
+    
   }
 
+ 
+
 }
+
+
+
 
