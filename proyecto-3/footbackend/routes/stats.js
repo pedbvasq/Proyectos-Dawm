@@ -22,14 +22,24 @@ router.get('/teams',function(req,res,next){
   })
 }
 )
+router.get('/league',function(req,res,next){
+  League.findAll().
+  then(data=>{
+    res.json(data)
+  }).catch(e=>{
+    console.log(e)
+
+  })
+}
+)
 
 
 
 router.get('/teams/:idleague', function(req, res, next) {
-  let id = req.params.idleague
+  let idP = req.params.idleague
    Teams.findAll({
       where:{
-        idleague:id
+        idleague:idP
       }
    }).
    then(data =>{

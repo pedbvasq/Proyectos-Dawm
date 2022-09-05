@@ -51,6 +51,20 @@
           <td>nos retorna un JSON de la la base de datos no relacional con informacion sobre los Jugadores segun su ID,recibe el id del equipo de la tabla "Players"</td>
            <td><a href='https://football-stats-343fd-default-rtdb.firebaseio.com/'>https://football-stats-343fd-default-rtdb.firebaseio.com/collection.json?orderBy=%22id%22&equalTo=${id}</a></td>
         </tr>
+        <tr>
+          <th scope="row">5</th>
+          <td> getTeams(id)</td>
+          <td>GET</td>
+          <td>nos retorna un JSON de la la base de datos relacional con informacion sobre los Equipos segun la liga en la que juegan segun su ID,recibe el id del la Liga de la tabla "Leagues"</td>
+           <td><a href='http://localhost:3000/stats/teams/'>http://localhost:3000/stats/teams/${id}</a></td>
+        </tr>
+        <tr>
+          <th scope="row">6</th>
+          <td> getLiga</td>
+          <td>GET</td>
+          <td>nos retorna un JSON de la la base de datos relacional con la informacion de la tabla "Leagues"</td>
+           <td><a href='http://localhost:3000/stats/league'>http://localhost:3000/stats/league</a></td>
+        </tr>
         </tr>
       </tbody>
     </table>
